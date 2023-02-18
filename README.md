@@ -4,7 +4,7 @@
 
 - [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (1 month ago)
 - [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) - Configuration and Ansible for the FreifunkMD backend. (1 month ago)
-- [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) - Bind9 container image with configuration for the ffmd zone (1 month ago)
+- [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) - Bind9 container image with configuration for the ffmd zone (2 months ago)
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) - Playground (Actions, etc) für DNS-Repos (2 months ago)
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) - Bind9 container image with configuration for md.freifunk.net (2 months ago)
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) - WebUI for the cleanURI service. (5 months ago)
@@ -26,14 +26,14 @@
 
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 1 month ago) - Bind9 container image with configuration for md.freifunk.net
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 1 month ago) - Bind9 container image with configuration for the ffmd zone
-- [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2022122001](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2022122001), 1 month ago) - Playground (Actions, etc) für DNS-Repos
+- [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2022122001](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2022122001), 2 months ago) - Playground (Actions, etc) für DNS-Repos
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.1.0](https://github.com/netz39/Ordnungen/releases/tag/v2.1.0), 2 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.1.1](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.1.1), 5 months ago) - WebUI for the cleanURI service.
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.0), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (3 days ago)
+- [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (4 days ago)
 - [add ssh key for 24367dfa to group_vars](https://github.com/FreifunkMD/backend-ffmd/pull/43) on [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) (1 month ago)
 - [feat: add missing zone info](https://github.com/FreifunkMD/ffmd-bind9/pull/10) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
 - [Rename-zone-file](https://github.com/FreifunkMD/ffmd-bind9/pull/9) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
