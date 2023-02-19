@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (today)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (1 month ago)
 - [rancher/partner-charts](https://github.com/rancher/partner-charts) -  (1 month ago)
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (1 month ago)
@@ -58,7 +59,6 @@
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (10 months ago)
 - [eknoes/covidbot](https://github.com/eknoes/covidbot) - Multi-platform messenger bot which provides updates on current COVID19 situation for Germany (2 years ago)
 - [pointhi/kicad-color-schemes](https://github.com/pointhi/kicad-color-schemes) - Want to change the color scheme of KiCad? Look here for Inspiration. (2 years ago)
-- [DP-3T/documents](https://github.com/DP-3T/documents) - Decentralized Privacy-Preserving Proximity Tracing -- Documents (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
