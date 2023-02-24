@@ -27,13 +27,13 @@
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 2 months ago) - Bind9 container image with configuration for md.freifunk.net
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 2 months ago) - Bind9 container image with configuration for the ffmd zone
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2022122001](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2022122001), 2 months ago) - Playground (Actions, etc) für DNS-Repos
-- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.1.0](https://github.com/netz39/Ordnungen/releases/tag/v2.1.0), 2 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
+- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.1.0](https://github.com/netz39/Ordnungen/releases/tag/v2.1.0), 3 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.1.1](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.1.1), 5 months ago) - WebUI for the cleanURI service.
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.0), 7 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (3 days ago)
+- [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (4 days ago)
 - [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (1 week ago)
 - [add ssh key for 24367dfa to group_vars](https://github.com/FreifunkMD/backend-ffmd/pull/43) on [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) (1 month ago)
 - [feat: add missing zone info](https://github.com/FreifunkMD/ffmd-bind9/pull/10) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (4 days ago)
+- [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (5 days ago)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (1 month ago)
 - [rancher/partner-charts](https://github.com/rancher/partner-charts) -  (1 month ago)
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (1 month ago)
