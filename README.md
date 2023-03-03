@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (today)
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (1 week ago)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (1 month ago)
 - [rancher/partner-charts](https://github.com/rancher/partner-charts) -  (1 month ago)
@@ -58,7 +59,6 @@
 - [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) - Helm plugin that lists all/selected images that are part of the chart before deployment and also from deployed release. (8 months ago)
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (11 months ago)
 - [eknoes/covidbot](https://github.com/eknoes/covidbot) - Multi-platform messenger bot which provides updates on current COVID19 situation for Germany (2 years ago)
-- [pointhi/kicad-color-schemes](https://github.com/pointhi/kicad-color-schemes) - Want to change the color scheme of KiCad? Look here for Inspiration. (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
