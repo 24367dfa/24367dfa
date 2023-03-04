@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (today)
+- [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (1 day ago)
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (1 week ago)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (1 month ago)
 - [rancher/partner-charts](https://github.com/rancher/partner-charts) -  (1 month ago)
