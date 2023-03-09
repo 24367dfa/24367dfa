@@ -8,7 +8,7 @@
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) - Playground (Actions, etc) für DNS-Repos (2 months ago)
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) - Bind9 container image with configuration for md.freifunk.net (2 months ago)
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) - WebUI for the cleanURI service. (5 months ago)
-- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (7 months ago)
+- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (8 months ago)
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) -  (8 months ago)
 
 #### 🌱 My latest projects
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (5 days ago)
+- [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (6 days ago)
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (2 weeks ago)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (1 month ago)
 - [rancher/partner-charts](https://github.com/rancher/partner-charts) -  (1 month ago)
