@@ -6,7 +6,7 @@
 - [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) - Configuration and Ansible for the FreifunkMD backend. (2 months ago)
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) - Bind9 container image with configuration for the ffmd zone (2 months ago)
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) - Playground (Actions, etc) für DNS-Repos (2 months ago)
-- [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) - Bind9 container image with configuration for md.freifunk.net (2 months ago)
+- [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) - Bind9 container image with configuration for md.freifunk.net (3 months ago)
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) - WebUI for the cleanURI service. (5 months ago)
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (8 months ago)
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) -  (8 months ago)
@@ -34,7 +34,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (3 weeks ago)
-- [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (3 weeks ago)
+- [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (4 weeks ago)
 - [add ssh key for 24367dfa to group_vars](https://github.com/FreifunkMD/backend-ffmd/pull/43) on [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) (2 months ago)
 - [feat: add missing zone info](https://github.com/FreifunkMD/ffmd-bind9/pull/10) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
 - [Rename-zone-file](https://github.com/FreifunkMD/ffmd-bind9/pull/9) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
