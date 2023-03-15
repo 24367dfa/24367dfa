@@ -49,6 +49,7 @@
 
 #### ⭐ Recent Stars
 
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (today)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (1 week ago)
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (3 weeks ago)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (2 months ago)
@@ -58,7 +59,6 @@
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 months ago)
 - [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) - Helm plugin that lists all/selected images that are part of the chart before deployment and also from deployed release. (9 months ago)
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (11 months ago)
-- [eknoes/covidbot](https://github.com/eknoes/covidbot) - Multi-platform messenger bot which provides updates on current COVID19 situation for Germany (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
