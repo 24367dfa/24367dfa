@@ -39,17 +39,17 @@
 - [feat: add missing zone info](https://github.com/FreifunkMD/ffmd-bind9/pull/10) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
 - [Rename-zone-file](https://github.com/FreifunkMD/ffmd-bind9/pull/9) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
 - [ci: add check for number of zone files](https://github.com/FreifunkMD/dns-test-repo/pull/7) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (2 months ago)
-- [ci: better way to fix no-names error](https://github.com/FreifunkMD/dns-test-repo/pull/6) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (2 months ago)
-- [ci: try to fix no-names error](https://github.com/FreifunkMD/dns-test-repo/pull/5) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (2 months ago)
-- [ci: remove deprecated var passing](https://github.com/FreifunkMD/dns-test-repo/pull/4) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (2 months ago)
-- [Ci update output style](https://github.com/FreifunkMD/dns-test-repo/pull/3) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (2 months ago)
+- [ci: better way to fix no-names error](https://github.com/FreifunkMD/dns-test-repo/pull/6) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
+- [ci: try to fix no-names error](https://github.com/FreifunkMD/dns-test-repo/pull/5) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
+- [ci: remove deprecated var passing](https://github.com/FreifunkMD/dns-test-repo/pull/4) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
+- [Ci update output style](https://github.com/FreifunkMD/dns-test-repo/pull/3) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (2 days ago)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (3 days ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (2 weeks ago)
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (3 weeks ago)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (2 months ago)
