@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (1 month ago)
+- [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (2 months ago)
 - [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) - Configuration and Ansible for the FreifunkMD backend. (2 months ago)
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) - Bind9 container image with configuration for the ffmd zone (2 months ago)
-- [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) - Playground (Actions, etc) für DNS-Repos (2 months ago)
+- [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) - Playground (Actions, etc) für DNS-Repos (3 months ago)
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) - Bind9 container image with configuration for md.freifunk.net (3 months ago)
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) - WebUI for the cleanURI service. (6 months ago)
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (8 months ago)
@@ -36,9 +36,9 @@
 - [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (3 weeks ago)
 - [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (1 month ago)
 - [add ssh key for 24367dfa to group_vars](https://github.com/FreifunkMD/backend-ffmd/pull/43) on [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) (2 months ago)
-- [feat: add missing zone info](https://github.com/FreifunkMD/ffmd-bind9/pull/10) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
-- [Rename-zone-file](https://github.com/FreifunkMD/ffmd-bind9/pull/9) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (2 months ago)
-- [ci: add check for number of zone files](https://github.com/FreifunkMD/dns-test-repo/pull/7) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (2 months ago)
+- [feat: add missing zone info](https://github.com/FreifunkMD/ffmd-bind9/pull/10) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (3 months ago)
+- [Rename-zone-file](https://github.com/FreifunkMD/ffmd-bind9/pull/9) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (3 months ago)
+- [ci: add check for number of zone files](https://github.com/FreifunkMD/dns-test-repo/pull/7) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
 - [ci: better way to fix no-names error](https://github.com/FreifunkMD/dns-test-repo/pull/6) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
 - [ci: try to fix no-names error](https://github.com/FreifunkMD/dns-test-repo/pull/5) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
 - [ci: remove deprecated var passing](https://github.com/FreifunkMD/dns-test-repo/pull/4) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
@@ -49,9 +49,9 @@
 
 #### ⭐ Recent Stars
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (3 days ago)
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime  (4 days ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (2 weeks ago)
-- [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (3 weeks ago)
+- [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (4 weeks ago)
 - [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (2 months ago)
 - [rancher/partner-charts](https://github.com/rancher/partner-charts) -  (2 months ago)
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (2 months ago)
