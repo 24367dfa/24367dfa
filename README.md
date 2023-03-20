@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (today)
 - [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (2 months ago)
 - [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) - Configuration and Ansible for the FreifunkMD backend. (2 months ago)
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) - Bind9 container image with configuration for the ffmd zone (3 months ago)
@@ -30,9 +31,12 @@
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 2 months ago) - Bind9 container image with configuration for the ffmd zone
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.1.0](https://github.com/netz39/Ordnungen/releases/tag/v2.1.0), 3 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.0), 8 months ago) - 
+- [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) ([v0.35](https://github.com/FreifunkMD/site-ffmd/releases/tag/v0.35), 7 years ago) - Freifunk Magdeburg specific Gluon configuration
 
 #### 🔨 My recent Pull Requests
 
+- [Create LICENSE](https://github.com/FreifunkMD/site-ffmd/pull/146) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (today)
+- [144 pr template für site ffmd](https://github.com/FreifunkMD/site-ffmd/pull/145) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (today)
 - [:memo: fix formatting of readme](https://github.com/FreifunkMD/pr/pull/15) on [FreifunkMD/pr](https://github.com/FreifunkMD/pr) (today)
 - [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (4 weeks ago)
 - [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (1 month ago)
@@ -41,8 +45,6 @@
 - [Rename-zone-file](https://github.com/FreifunkMD/ffmd-bind9/pull/9) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (3 months ago)
 - [ci: add check for number of zone files](https://github.com/FreifunkMD/dns-test-repo/pull/7) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
 - [ci: better way to fix no-names error](https://github.com/FreifunkMD/dns-test-repo/pull/6) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
-- [ci: try to fix no-names error](https://github.com/FreifunkMD/dns-test-repo/pull/5) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
-- [ci: remove deprecated var passing](https://github.com/FreifunkMD/dns-test-repo/pull/4) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
 
 #### 📓 Gists I wrote
 
