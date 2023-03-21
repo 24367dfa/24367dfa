@@ -11,7 +11,7 @@
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) - Bind9 container image with configuration for md.freifunk.net (3 months ago)
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) - WebUI for the cleanURI service. (6 months ago)
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (8 months ago)
-- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) -  (8 months ago)
+- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V. (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 2 months ago) - Bind9 container image with configuration for md.freifunk.net
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 2 months ago) - Bind9 container image with configuration for the ffmd zone
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.1.0](https://github.com/netz39/Ordnungen/releases/tag/v2.1.0), 3 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
-- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.0), 8 months ago) - 
+- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.0), 8 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) ([v0.35](https://github.com/FreifunkMD/site-ffmd/releases/tag/v0.35), 7 years ago) - Freifunk Magdeburg specific Gluon configuration
 
 #### 🔨 My recent Pull Requests
