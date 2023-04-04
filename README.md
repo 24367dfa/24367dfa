@@ -4,7 +4,7 @@
 
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (1 week ago)
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V. (1 week ago)
-- [FreifunkMD/pr](https://github.com/FreifunkMD/pr) - Public Relations for Freifunk Magdeburg (1 week ago)
+- [FreifunkMD/pr](https://github.com/FreifunkMD/pr) - Public Relations for Freifunk Magdeburg (2 weeks ago)
 - [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (2 months ago)
 - [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) - Configuration and Ansible for the FreifunkMD backend. (3 months ago)
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) - Bind9 container image with configuration for the ffmd zone (3 months ago)
