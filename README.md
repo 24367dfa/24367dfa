@@ -2,6 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (today)
+- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (today)
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (1 week ago)
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V. (2 weeks ago)
 - [FreifunkMD/pr](https://github.com/FreifunkMD/pr) - Public Relations for Freifunk Magdeburg (2 weeks ago)
@@ -10,8 +12,6 @@
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) - Bind9 container image with configuration for the ffmd zone (3 months ago)
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) - Playground (Actions, etc) für DNS-Repos (3 months ago)
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) - Bind9 container image with configuration for md.freifunk.net (3 months ago)
-- [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) - WebUI for the cleanURI service. (6 months ago)
-- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (8 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,6 +32,7 @@
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 3 months ago) - Bind9 container image with configuration for md.freifunk.net
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 3 months ago) - Bind9 container image with configuration for the ffmd zone
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.1.0](https://github.com/netz39/Ordnungen/releases/tag/v2.1.0), 4 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
+- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 8 months ago) - Install the BLE KeyKeeper service on a Raspbian system
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) ([v0.35](https://github.com/FreifunkMD/site-ffmd/releases/tag/v0.35), 7 years ago) - Freifunk Magdeburg specific Gluon configuration
 
 #### 🔨 My recent Pull Requests
