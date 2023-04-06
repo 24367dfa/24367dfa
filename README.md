@@ -36,6 +36,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (today)
+- [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (today)
 - [👥 neuer Vorstand im footer](https://github.com/netz39/Mitgliedsantraege/pull/10) on [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) (2 weeks ago)
 - [Create LICENSE](https://github.com/FreifunkMD/site-ffmd/pull/146) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (2 weeks ago)
 - [144 pr template für site ffmd](https://github.com/FreifunkMD/site-ffmd/pull/145) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (2 weeks ago)
@@ -44,14 +46,13 @@
 - [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (1 month ago)
 - [add ssh key for 24367dfa to group_vars](https://github.com/FreifunkMD/backend-ffmd/pull/43) on [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) (3 months ago)
 - [feat: add missing zone info](https://github.com/FreifunkMD/ffmd-bind9/pull/10) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (3 months ago)
-- [Rename-zone-file](https://github.com/FreifunkMD/ffmd-bind9/pull/9) on [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) (3 months ago)
-- [ci: add check for number of zone files](https://github.com/FreifunkMD/dns-test-repo/pull/7) on [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) (3 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (today)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (3 weeks ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (1 month ago)
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (1 month ago)
@@ -61,7 +62,6 @@
 - [hknutzen/Netspoc](https://github.com/hknutzen/Netspoc) - A network security policy compiler. Netspoc is targeted at environments with a large number of firewalls and admins. Firewall rules are derived from a single rule set. Supported are Cisco IOS, NX-OS, ASA, Palo-Alto, VMware NSX gateway firewalls and IPTables. (3 months ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 months ago)
 - [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) - Helm plugin that lists all/selected images that are part of the chart before deployment and also from deployed release. (10 months ago)
-- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
