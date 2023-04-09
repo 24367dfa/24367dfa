@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 days ago)
-- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (2 days ago)
-- [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (1 week ago)
+- [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (3 days ago)
+- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (3 days ago)
+- [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (2 weeks ago)
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V. (2 weeks ago)
 - [FreifunkMD/pr](https://github.com/FreifunkMD/pr) - Public Relations for Freifunk Magdeburg (2 weeks ago)
 - [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (2 months ago)
@@ -37,8 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (2 days ago)
-- [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (2 days ago)
+- [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (3 days ago)
+- [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (3 days ago)
 - [👥 neuer Vorstand im footer](https://github.com/netz39/Mitgliedsantraege/pull/10) on [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) (2 weeks ago)
 - [Create LICENSE](https://github.com/FreifunkMD/site-ffmd/pull/146) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (2 weeks ago)
 - [144 pr template für site ffmd](https://github.com/FreifunkMD/site-ffmd/pull/145) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (2 weeks ago)
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 days ago)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (3 days ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (3 weeks ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (1 month ago)
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (1 month ago)
