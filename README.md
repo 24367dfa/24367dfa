@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (today)
 - [feat: 🚸add first draft of issue template for website problems](https://github.com/FreifunkMD/.github/pull/24) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 days ago)
 - [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (1 week ago)
 - [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (1 week ago)
@@ -46,13 +47,13 @@
 - [:memo: fix formatting of readme](https://github.com/FreifunkMD/pr/pull/15) on [FreifunkMD/pr](https://github.com/FreifunkMD/pr) (1 month ago)
 - [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (1 month ago)
 - [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (2 months ago)
-- [add ssh key for 24367dfa to group_vars](https://github.com/FreifunkMD/backend-ffmd/pull/43) on [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) (3 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (today)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 week ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (1 month ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (1 month ago)
@@ -62,7 +63,6 @@
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (3 months ago)
 - [hknutzen/Netspoc](https://github.com/hknutzen/Netspoc) - A network security policy compiler. Netspoc is targeted at environments with a large number of firewalls and admins. Firewall rules are derived from a single rule set. Supported are Cisco IOS, NX-OS, ASA, Palo-Alto, VMware NSX gateway firewalls and IPTables. (3 months ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 months ago)
-- [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) - Helm plugin that lists all/selected images that are part of the chart before deployment and also from deployed release. (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
