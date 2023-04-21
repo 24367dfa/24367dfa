@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 days ago)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (5 days ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 weeks ago)
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (2 weeks ago)
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (3 weeks ago)
@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 4 weeks ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
+- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 1 month ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2023032003](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2023032003), 1 month ago) - Playground (Actions, etc) für DNS-Repos
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.2.0](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.2.0), 1 month ago) - WebUI for the cleanURI service.
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 3 months ago) - Bind9 container image with configuration for md.freifunk.net
@@ -37,15 +37,15 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 day ago)
-- [feat: 🚸add first draft of issue template for website problems](https://github.com/FreifunkMD/.github/pull/24) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (4 days ago)
+- [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 days ago)
+- [feat: 🚸add first draft of issue template for website problems](https://github.com/FreifunkMD/.github/pull/24) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (5 days ago)
 - [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (2 weeks ago)
 - [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (2 weeks ago)
-- [👥 neuer Vorstand im footer](https://github.com/netz39/Mitgliedsantraege/pull/10) on [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) (4 weeks ago)
+- [👥 neuer Vorstand im footer](https://github.com/netz39/Mitgliedsantraege/pull/10) on [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) (1 month ago)
 - [Create LICENSE](https://github.com/FreifunkMD/site-ffmd/pull/146) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (1 month ago)
 - [144 pr template für site ffmd](https://github.com/FreifunkMD/site-ffmd/pull/145) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (1 month ago)
 - [:memo: fix formatting of readme](https://github.com/FreifunkMD/pr/pull/15) on [FreifunkMD/pr](https://github.com/FreifunkMD/pr) (1 month ago)
-- [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (1 month ago)
+- [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (2 months ago)
 - [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (2 months ago)
 
 #### 📓 Gists I wrote
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (1 day ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (2 days ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 weeks ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (1 month ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (1 month ago)
