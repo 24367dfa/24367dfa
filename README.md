@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: ✨ add issue template for general issues](https://github.com/FreifunkMD/.github/pull/32) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (today)
 - [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (4 days ago)
 - [feat: 🚸add first draft of issue template for website problems](https://github.com/FreifunkMD/.github/pull/24) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
 - [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (2 weeks ago)
@@ -46,7 +47,6 @@
 - [144 pr template für site ffmd](https://github.com/FreifunkMD/site-ffmd/pull/145) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (1 month ago)
 - [:memo: fix formatting of readme](https://github.com/FreifunkMD/pr/pull/15) on [FreifunkMD/pr](https://github.com/FreifunkMD/pr) (1 month ago)
 - [Draft: fix Dockerfile to get back to a runnable buildimage](https://github.com/FreifunkMD/gluon-docker/pull/18) on [FreifunkMD/gluon-docker](https://github.com/FreifunkMD/gluon-docker) (2 months ago)
-- [doc: update cli command documentation](https://github.com/rancher/cli/pull/330) on [rancher/cli](https://github.com/rancher/cli) (2 months ago)
 
 #### 📓 Gists I wrote
 
