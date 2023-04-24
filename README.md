@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (2 days ago)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (3 days ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 weeks ago)
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (2 weeks ago)
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (4 weeks ago)
@@ -37,8 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat: ✨ add issue template for general issues](https://github.com/FreifunkMD/.github/pull/32) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (today)
-- [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (4 days ago)
+- [feat: ✨ add issue template for general issues](https://github.com/FreifunkMD/.github/pull/32) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 day ago)
+- [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (5 days ago)
 - [feat: 🚸add first draft of issue template for website problems](https://github.com/FreifunkMD/.github/pull/24) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
 - [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (2 weeks ago)
 - [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (2 weeks ago)
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (4 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (5 days ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 weeks ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (1 month ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (1 month ago)
