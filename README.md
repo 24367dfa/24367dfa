@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (today)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 day ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 weeks ago)
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (2 weeks ago)
-- [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (4 weeks ago)
+- [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (1 month ago)
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V. (1 month ago)
 - [FreifunkMD/pr](https://github.com/FreifunkMD/pr) - Public Relations for Freifunk Magdeburg (1 month ago)
 - [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (3 months ago)
@@ -28,18 +28,18 @@
 
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 1 month ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2023032003](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2023032003), 1 month ago) - Playground (Actions, etc) für DNS-Repos
-- [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.2.0](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.2.0), 1 month ago) - WebUI for the cleanURI service.
+- [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.2.0](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.2.0), 2 months ago) - WebUI for the cleanURI service.
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 4 months ago) - Bind9 container image with configuration for md.freifunk.net
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 4 months ago) - Bind9 container image with configuration for the ffmd zone
-- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.1.0](https://github.com/netz39/Ordnungen/releases/tag/v2.1.0), 4 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
-- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 8 months ago) - Install the BLE KeyKeeper service on a Raspbian system
+- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.1.0](https://github.com/netz39/Ordnungen/releases/tag/v2.1.0), 5 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
+- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 9 months ago) - Install the BLE KeyKeeper service on a Raspbian system
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) ([v0.35](https://github.com/FreifunkMD/site-ffmd/releases/tag/v0.35), 7 years ago) - Freifunk Magdeburg specific Gluon configuration
 
 #### 🔨 My recent Pull Requests
 
-- [feat: ✨ calculate date of next meeting on demand](https://github.com/FreifunkMD/.github/pull/34) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (today)
-- [feat: ✨ add issue template for general issues](https://github.com/FreifunkMD/.github/pull/32) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 day ago)
-- [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (5 days ago)
+- [feat: ✨ calculate date of next meeting on demand](https://github.com/FreifunkMD/.github/pull/34) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 day ago)
+- [feat: ✨ add issue template for general issues](https://github.com/FreifunkMD/.github/pull/32) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 days ago)
+- [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (6 days ago)
 - [feat: 🚸add first draft of issue template for website problems](https://github.com/FreifunkMD/.github/pull/24) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
 - [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (2 weeks ago)
 - [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (2 weeks ago)
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (5 days ago)
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool (6 days ago)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 weeks ago)
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (1 month ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (1 month ago)
