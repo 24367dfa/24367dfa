@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [🔥: remove obsolete document](https://github.com/netz39/Ordnungen/pull/9) on [netz39/Ordnungen](https://github.com/netz39/Ordnungen) (today)
 - [Fix/scheduled reminder](https://github.com/FreifunkMD/.github/pull/35) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (6 days ago)
 - [feat: ✨ calculate date of next meeting on demand](https://github.com/FreifunkMD/.github/pull/34) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
 - [feat: ✨ add issue template for general issues](https://github.com/FreifunkMD/.github/pull/32) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
@@ -46,7 +47,6 @@
 - [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (3 weeks ago)
 - [👥 neuer Vorstand im footer](https://github.com/netz39/Mitgliedsantraege/pull/10) on [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) (1 month ago)
 - [Create LICENSE](https://github.com/FreifunkMD/site-ffmd/pull/146) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (1 month ago)
-- [144 pr template für site ffmd](https://github.com/FreifunkMD/site-ffmd/pull/145) on [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) (1 month ago)
 
 #### 📓 Gists I wrote
 
