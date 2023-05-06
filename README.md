@@ -69,11 +69,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Legacy8049](https://github.com/Legacy8049)
 - [Nold360](https://github.com/Nold360)
 - [penguineer](https://github.com/penguineer)
 - [hemmingstein](https://github.com/hemmingstein)
 - [apfohl](https://github.com/apfohl)
-- [bastinat0r](https://github.com/bastinat0r)
 
 #### 💬 Feedback
 
