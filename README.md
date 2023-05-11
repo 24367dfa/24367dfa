@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix send mail job](https://github.com/FreifunkMD/.github/pull/39) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (today)
 - [:adhesive_bandage:  Fix variable pass-over in meeting-reminder workflow](https://github.com/FreifunkMD/.github/pull/38) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (today)
 - [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
 - [🔥: remove obsolete document](https://github.com/netz39/Ordnungen/pull/9) on [netz39/Ordnungen](https://github.com/netz39/Ordnungen) (1 week ago)
@@ -46,7 +47,6 @@
 - [feat ✨ add gh action to send out reminder about upcoming meetings](https://github.com/FreifunkMD/.github/pull/28) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 weeks ago)
 - [feat: 🚸add first draft of issue template for website problems](https://github.com/FreifunkMD/.github/pull/24) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 weeks ago)
 - [ci: update runner image to ubuntu-latest](https://github.com/netz39/ble-keykeeper-role/pull/8) on [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) (1 month ago)
-- [ci: update runner to ubuntu-latest](https://github.com/netz39/blockchain-infosite/pull/8) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (1 month ago)
 
 #### 📓 Gists I wrote
 
