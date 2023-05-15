@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 days ago)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (today)
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (1 week ago)
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (1 month ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 month ago)
