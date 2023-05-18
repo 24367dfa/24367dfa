@@ -2,14 +2,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (2 days ago)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (3 days ago)
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (2 weeks ago)
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (1 month ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 month ago)
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (1 month ago)
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V. (1 month ago)
 - [FreifunkMD/pr](https://github.com/FreifunkMD/pr) - Public Relations for Freifunk Magdeburg (1 month ago)
-- [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (3 months ago)
+- [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) -  (4 months ago)
 - [FreifunkMD/backend-ffmd](https://github.com/FreifunkMD/backend-ffmd) - Configuration and Ansible for the FreifunkMD backend. (4 months ago)
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) - Bind9 container image with configuration for the ffmd zone (4 months ago)
 
@@ -26,7 +26,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 1 week ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
+- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 2 weeks ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 1 month ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2023032003](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2023032003), 1 month ago) - Playground (Actions, etc) für DNS-Repos
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.2.0](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.2.0), 2 months ago) - WebUI for the cleanURI service.
@@ -37,14 +37,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (1 day ago)
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-apigateway/pull/20) on [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) (1 day ago)
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-canonizer/pull/15) on [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) (1 day ago)
-- [Fix send mail job](https://github.com/FreifunkMD/.github/pull/39) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (6 days ago)
-- [:adhesive_bandage:  Fix variable pass-over in meeting-reminder workflow](https://github.com/FreifunkMD/.github/pull/38) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (6 days ago)
-- [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
+- [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (2 days ago)
+- [fix: typo in README.md](https://github.com/penguineer/cleanURI-apigateway/pull/20) on [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) (2 days ago)
+- [fix: typo in README.md](https://github.com/penguineer/cleanURI-canonizer/pull/15) on [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) (2 days ago)
+- [Fix send mail job](https://github.com/FreifunkMD/.github/pull/39) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
+- [:adhesive_bandage:  Fix variable pass-over in meeting-reminder workflow](https://github.com/FreifunkMD/.github/pull/38) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
+- [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 weeks ago)
 - [🔥: remove obsolete document](https://github.com/netz39/Ordnungen/pull/9) on [netz39/Ordnungen](https://github.com/netz39/Ordnungen) (2 weeks ago)
-- [Fix/scheduled reminder](https://github.com/FreifunkMD/.github/pull/35) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 weeks ago)
+- [Fix/scheduled reminder](https://github.com/FreifunkMD/.github/pull/35) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 weeks ago)
 - [feat: ✨ calculate date of next meeting on demand](https://github.com/FreifunkMD/.github/pull/34) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 weeks ago)
 - [feat: ✨ add issue template for general issues](https://github.com/FreifunkMD/.github/pull/32) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 weeks ago)
 
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [transportkollektiv/opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns) - Sammlung dysfunktionaler Muster im OpenData-Umfeld (1 week ago)
+- [transportkollektiv/opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns) - Sammlung dysfunktionaler Muster im OpenData-Umfeld (2 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (2 weeks ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (2 weeks ago)
 - [penguineer/gh-blog](https://github.com/penguineer/gh-blog) - Hosting a blog or static landing page on GitHub (3 weeks ago)
