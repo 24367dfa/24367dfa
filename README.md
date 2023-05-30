@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (today)
 - [transportkollektiv/opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns) - Sammlung dysfunktionaler Muster im OpenData-Umfeld (3 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (3 weeks ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (3 weeks ago)
@@ -64,7 +65,6 @@
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience. (2 months ago)
 - [TailorDev/Watson](https://github.com/TailorDev/Watson) - :watch: A wonderful CLI to track your time! (2 months ago)
 - [hay-kot/homebox](https://github.com/hay-kot/homebox) - Homebox is the inventory and organization system built for the Home User (3 months ago)
-- [qmk/qmk_firmware](https://github.com/qmk/qmk_firmware) - Open-source keyboard firmware for Atmel AVR and Arm USB families (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
