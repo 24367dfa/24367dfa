@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (1 week ago)
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (2 weeks ago)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (3 weeks ago)
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (3 weeks ago)
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) - Extract website information for the cleanURI service. (3 weeks ago)
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) - Reduce a URL to canonical form for the cleanURI service. (3 weeks ago)
@@ -43,8 +43,8 @@
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (3 weeks ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-apigateway/pull/20) on [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) (3 weeks ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-canonizer/pull/15) on [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) (3 weeks ago)
-- [Fix send mail job](https://github.com/FreifunkMD/.github/pull/39) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (4 weeks ago)
-- [:adhesive_bandage:  Fix variable pass-over in meeting-reminder workflow](https://github.com/FreifunkMD/.github/pull/38) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (4 weeks ago)
+- [Fix send mail job](https://github.com/FreifunkMD/.github/pull/39) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
+- [:adhesive_bandage:  Fix variable pass-over in meeting-reminder workflow](https://github.com/FreifunkMD/.github/pull/38) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
 - [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
 - [🔥: remove obsolete document](https://github.com/netz39/Ordnungen/pull/9) on [netz39/Ordnungen](https://github.com/netz39/Ordnungen) (1 month ago)
 - [Fix/scheduled reminder](https://github.com/FreifunkMD/.github/pull/35) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
