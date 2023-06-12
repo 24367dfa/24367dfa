@@ -33,9 +33,9 @@
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.2.0](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.2.0), 3 months ago) - WebUI for the cleanURI service.
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 5 months ago) - Bind9 container image with configuration for md.freifunk.net
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 5 months ago) - Bind9 container image with configuration for the ffmd zone
-- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.3.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.3.0), 8 months ago) - Extract website information for the cleanURI service.
-- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.3.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.3.0), 8 months ago) - Reduce a URL to canonical form for the cleanURI service.
-- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.0](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.0), 8 months ago) - This is the API gateway for the cleanURI service.
+- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.3.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.3.0), 9 months ago) - Extract website information for the cleanURI service.
+- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.3.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.3.0), 9 months ago) - Reduce a URL to canonical form for the cleanURI service.
+- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.0](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.0), 9 months ago) - This is the API gateway for the cleanURI service.
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 10 months ago) - Install the BLE KeyKeeper service on a Raspbian system
 
 #### 🔨 My recent Pull Requests
