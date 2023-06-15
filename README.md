@@ -4,9 +4,9 @@
 
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (2 weeks ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (3 weeks ago)
-- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (4 weeks ago)
-- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) - Extract website information for the cleanURI service. (4 weeks ago)
-- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) - Reduce a URL to canonical form for the cleanURI service. (4 weeks ago)
+- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (1 month ago)
+- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) - Extract website information for the cleanURI service. (1 month ago)
+- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) - Reduce a URL to canonical form for the cleanURI service. (1 month ago)
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (1 month ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 months ago)
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (2 months ago)
@@ -40,10 +40,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (1 day ago)
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (4 weeks ago)
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-apigateway/pull/20) on [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) (4 weeks ago)
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-canonizer/pull/15) on [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) (4 weeks ago)
+- [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (2 days ago)
+- [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (1 month ago)
+- [fix: typo in README.md](https://github.com/penguineer/cleanURI-apigateway/pull/20) on [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) (1 month ago)
+- [fix: typo in README.md](https://github.com/penguineer/cleanURI-canonizer/pull/15) on [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) (1 month ago)
 - [Fix send mail job](https://github.com/FreifunkMD/.github/pull/39) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
 - [:adhesive_bandage:  Fix variable pass-over in meeting-reminder workflow](https://github.com/FreifunkMD/.github/pull/38) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
 - [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (2 days ago)
+- [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (3 days ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (2 weeks ago)
 - [transportkollektiv/opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns) - Sammlung dysfunktionaler Muster im OpenData-Umfeld (1 month ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 month ago)
