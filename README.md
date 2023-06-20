@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (2 days ago)
-- [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (2 weeks ago)
+- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (3 days ago)
+- [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (3 weeks ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 month ago)
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (1 month ago)
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) - Extract website information for the cleanURI service. (1 month ago)
@@ -28,7 +28,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 1 month ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
-- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 2 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
+- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 3 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2023032003](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2023032003), 3 months ago) - Playground (Actions, etc) für DNS-Repos
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.2.0](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.2.0), 3 months ago) - WebUI for the cleanURI service.
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 5 months ago) - Bind9 container image with configuration for md.freifunk.net
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (6 days ago)
+- [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (1 week ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (1 month ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-apigateway/pull/20) on [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) (1 month ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-canonizer/pull/15) on [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) (1 month ago)
@@ -57,7 +57,7 @@
 #### ⭐ Recent Stars
 
 - [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (1 week ago)
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (2 weeks ago)
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (3 weeks ago)
 - [transportkollektiv/opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns) - Sammlung dysfunktionaler Muster im OpenData-Umfeld (1 month ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 month ago)
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything (1 month ago)
