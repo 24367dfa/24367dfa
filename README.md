@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (4 days ago)
+- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (5 days ago)
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (3 weeks ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 month ago)
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (1 month ago)
