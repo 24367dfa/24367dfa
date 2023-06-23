@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (5 days ago)
+- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (6 days ago)
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (3 weeks ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 month ago)
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (1 month ago)
@@ -49,7 +49,7 @@
 - [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
 - [🔥: remove obsolete document](https://github.com/netz39/Ordnungen/pull/9) on [netz39/Ordnungen](https://github.com/netz39/Ordnungen) (1 month ago)
 - [Fix/scheduled reminder](https://github.com/FreifunkMD/.github/pull/35) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
-- [feat: ✨ calculate date of next meeting on demand](https://github.com/FreifunkMD/.github/pull/34) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
+- [feat: ✨ calculate date of next meeting on demand](https://github.com/FreifunkMD/.github/pull/34) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 months ago)
 
 #### 📓 Gists I wrote
 
