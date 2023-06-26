@@ -48,7 +48,7 @@
 - [:adhesive_bandage:  Fix variable pass-over in meeting-reminder workflow](https://github.com/FreifunkMD/.github/pull/38) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
 - [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
 - [🔥: remove obsolete document](https://github.com/netz39/Ordnungen/pull/9) on [netz39/Ordnungen](https://github.com/netz39/Ordnungen) (1 month ago)
-- [Fix/scheduled reminder](https://github.com/FreifunkMD/.github/pull/35) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 month ago)
+- [Fix/scheduled reminder](https://github.com/FreifunkMD/.github/pull/35) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 months ago)
 - [feat: ✨ calculate date of next meeting on demand](https://github.com/FreifunkMD/.github/pull/34) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 months ago)
 
 #### 📓 Gists I wrote
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (2 days ago)
-- [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (1 week ago)
+- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (3 days ago)
+- [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (2 weeks ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (3 weeks ago)
 - [transportkollektiv/opendata-antipatterns](https://github.com/transportkollektiv/opendata-antipatterns) - Sammlung dysfunktionaler Muster im OpenData-Umfeld (1 month ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 month ago)
