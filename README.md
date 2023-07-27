@@ -56,10 +56,10 @@
 
 #### ⭐ Recent Stars
 
-- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 weeks ago)
-- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (2 weeks ago)
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (2 weeks ago)
-- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (2 weeks ago)
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (3 weeks ago)
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (3 weeks ago)
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (3 weeks ago)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (1 month ago)
 - [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (1 month ago)
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 month ago)
