@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (1 month ago)
-- [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (1 month ago)
+- [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (2 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (2 months ago)
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) - Reduce a URL to canonical form for the cleanURI service. (2 months ago)
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (2 months ago)
@@ -56,16 +56,16 @@
 
 #### ⭐ Recent Stars
 
-- [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (today)
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 day ago)
-- [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software for the hobbyist and smallholder farmer. (1 day ago)
+- [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (1 day ago)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 days ago)
+- [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software for the hobbyist and smallholder farmer. (2 days ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (3 weeks ago)
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (3 weeks ago)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (3 weeks ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (3 weeks ago)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (1 month ago)
 - [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (1 month ago)
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (1 month ago)
+- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
