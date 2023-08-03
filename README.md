@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [lucasheld/ansible-uptime-kuma](https://github.com/lucasheld/ansible-uptime-kuma) - Ansible collection of modules to configure Uptime Kuma (today)
 - [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (6 days ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 week ago)
 - [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software for the hobbyist and smallholder farmer. (1 week ago)
@@ -65,18 +66,17 @@
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (4 weeks ago)
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (1 month ago)
 - [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (1 month ago)
-- [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
 #### 👯 Check out some of my recent followers
 
+- [PlayMTL](https://github.com/PlayMTL)
 - [Legacy8049](https://github.com/Legacy8049)
 - [Nold360](https://github.com/Nold360)
 - [penguineer](https://github.com/penguineer)
 - [hemmingstein](https://github.com/hemmingstein)
-- [apfohl](https://github.com/apfohl)
 
 #### 💬 Feedback
 
