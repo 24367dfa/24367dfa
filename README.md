@@ -64,7 +64,7 @@
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager (1 month ago)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (1 month ago)
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor (1 month ago)
-- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (1 month ago)
+- [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code (2 months ago)
 - [ansible-collections/community.grafana](https://github.com/ansible-collections/community.grafana) - Grafana Collection for Ansible (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
