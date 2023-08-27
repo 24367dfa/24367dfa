@@ -57,7 +57,7 @@
 #### ⭐ Recent Stars
 
 - [lucasheld/ansible-uptime-kuma](https://github.com/lucasheld/ansible-uptime-kuma) - Ansible collection of modules to configure Uptime Kuma (3 weeks ago)
-- [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (4 weeks ago)
+- [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (1 month ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
 - [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software for the hobbyist and smallholder farmer. (1 month ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (1 month ago)
