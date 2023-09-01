@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 3 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
+- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 4 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 5 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2023032003](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2023032003), 5 months ago) - Playground (Actions, etc) für DNS-Repos
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.2.0](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.2.0), 6 months ago) - WebUI for the cleanURI service.
@@ -47,7 +47,7 @@
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-canonizer/pull/15) on [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) (3 months ago)
 - [Fix send mail job](https://github.com/FreifunkMD/.github/pull/39) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 months ago)
 - [:adhesive_bandage:  Fix variable pass-over in meeting-reminder workflow](https://github.com/FreifunkMD/.github/pull/38) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 months ago)
-- [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 months ago)
+- [fix: 💚 Repair broken Meeting Reminder Action - check date job](https://github.com/FreifunkMD/.github/pull/37) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (4 months ago)
 - [🔥: remove obsolete document](https://github.com/netz39/Ordnungen/pull/9) on [netz39/Ordnungen](https://github.com/netz39/Ordnungen) (4 months ago)
 - [Fix/scheduled reminder](https://github.com/FreifunkMD/.github/pull/35) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (4 months ago)
 
