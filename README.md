@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (today)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (2 months ago)
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (3 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (3 months ago)
@@ -11,7 +12,6 @@
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (4 months ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (5 months ago)
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (5 months ago)
-- [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) - Freifunk Magdeburg specific Gluon configuration (5 months ago)
 
 #### 🌱 My latest projects
 
