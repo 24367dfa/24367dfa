@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (5 days ago)
+- [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (6 days ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (3 months ago)
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (3 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 months ago)
@@ -28,7 +28,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 4 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
-- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 5 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
+- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 6 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2023032003](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2023032003), 6 months ago) - Playground (Actions, etc) für DNS-Repos
 - [penguineer/cleanURI-webui](https://github.com/penguineer/cleanURI-webui) ([v0.2.0](https://github.com/penguineer/cleanURI-webui/releases/tag/v0.2.0), 6 months ago) - WebUI for the cleanURI service.
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 8 months ago) - Bind9 container image with configuration for md.freifunk.net
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (5 days ago)
+- [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (6 days ago)
 - [Feat/rework wg broker server](https://github.com/christf/wg-broker/pull/12) on [christf/wg-broker](https://github.com/christf/wg-broker) (2 months ago)
 - [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (3 months ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (4 months ago)
@@ -56,9 +56,9 @@
 
 #### ⭐ Recent Stars
 
-- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (2 days ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (5 days ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (5 days ago)
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (3 days ago)
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (6 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (6 days ago)
 - [lucasheld/ansible-uptime-kuma](https://github.com/lucasheld/ansible-uptime-kuma) - Ansible collection of modules to configure Uptime Kuma (1 month ago)
 - [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (1 month ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 month ago)
