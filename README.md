@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (1 week ago)
+- [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (2 weeks ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (3 months ago)
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (3 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 months ago)
@@ -40,8 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [pin dependency opensearch-ruby to 3.0.1](https://github.com/fluent/fluent-plugin-opensearch/pull/116) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (5 days ago)
-- [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (1 week ago)
+- [pin dependency opensearch-ruby to 3.0.1](https://github.com/fluent/fluent-plugin-opensearch/pull/116) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (6 days ago)
+- [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (2 weeks ago)
 - [Feat/rework wg broker server](https://github.com/christf/wg-broker/pull/12) on [christf/wg-broker](https://github.com/christf/wg-broker) (2 months ago)
 - [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (3 months ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (4 months ago)
@@ -56,12 +56,12 @@
 
 #### ⭐ Recent Stars
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (4 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (5 days ago)
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (1 week ago)
-- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (1 week ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
+- [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (2 weeks ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 weeks ago)
 - [lucasheld/ansible-uptime-kuma](https://github.com/lucasheld/ansible-uptime-kuma) - Ansible collection of modules to configure Uptime Kuma (1 month ago)
-- [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (1 month ago)
+- [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (2 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 months ago)
 - [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software for the hobbyist and smallholder farmer. (2 months ago)
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management (2 months ago)
