@@ -72,11 +72,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [MG-5](https://github.com/MG-5)
 - [PlayMTL](https://github.com/PlayMTL)
 - [Legacy8049](https://github.com/Legacy8049)
 - [Nold360](https://github.com/Nold360)
 - [penguineer](https://github.com/penguineer)
-- [hemmingstein](https://github.com/hemmingstein)
 
 #### 💬 Feedback
 
