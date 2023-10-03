@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (today)
 - [JensWinter/tech-events-magdeburg](https://github.com/JensWinter/tech-events-magdeburg) - Terminliste aktueller IT-Events in und um Magdeburg (today)
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (5 days ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
@@ -65,7 +66,6 @@
 - [lucasheld/ansible-uptime-kuma](https://github.com/lucasheld/ansible-uptime-kuma) - Ansible collection of modules to configure Uptime Kuma (2 months ago)
 - [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (2 months ago)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (2 months ago)
-- [usetania/tania-core](https://github.com/usetania/tania-core) - Tania is a farm management software for the hobbyist and smallholder farmer. (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
