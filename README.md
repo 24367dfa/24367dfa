@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (4 days ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (5 days ago)
 - [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (3 weeks ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (3 months ago)
@@ -11,7 +12,6 @@
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) - Reduce a URL to canonical form for the cleanURI service. (4 months ago)
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (4 months ago)
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (5 months ago)
-- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) - Install the BLE KeyKeeper service on a Raspbian system (6 months ago)
 
 #### 🌱 My latest projects
 
