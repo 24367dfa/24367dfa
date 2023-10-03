@@ -56,6 +56,8 @@
 
 #### ⭐ Recent Stars
 
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (today)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (today)
 - [JensWinter/tech-events-magdeburg](https://github.com/JensWinter/tech-events-magdeburg) - Terminliste aktueller IT-Events in und um Magdeburg (today)
@@ -64,8 +66,6 @@
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (2 weeks ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (3 weeks ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 weeks ago)
-- [lucasheld/ansible-uptime-kuma](https://github.com/lucasheld/ansible-uptime-kuma) - Ansible collection of modules to configure Uptime Kuma (2 months ago)
-- [pklaus/brother_ql_web_docker](https://github.com/pklaus/brother_ql_web_docker) - Dockerfiles for brother_ql_web deployments (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
