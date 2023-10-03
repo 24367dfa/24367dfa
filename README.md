@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [netz39/Stepper-Locking-System_firmware](https://github.com/netz39/Stepper-Locking-System_firmware) - The C&#43;&#43; firmware for our Stepper-Locking-System. (today)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (today)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
@@ -65,7 +66,6 @@
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes (2 weeks ago)
 - [kube-logging/logging-operator](https://github.com/kube-logging/logging-operator) - Logging operator for Kubernetes (3 weeks ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
