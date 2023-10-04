@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [WIP: convert ruby deps to Gemfile](https://github.com/kube-logging/fluentd-images/pull/68) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (today)
+- [convert ruby deps to Gemfile](https://github.com/kube-logging/fluentd-images/pull/68) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (today)
 - [pin dependency opensearch-ruby to 3.0.1](https://github.com/fluent/fluent-plugin-opensearch/pull/116) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (2 weeks ago)
 - [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (3 weeks ago)
 - [Feat/rework wg broker server](https://github.com/christf/wg-broker/pull/12) on [christf/wg-broker](https://github.com/christf/wg-broker) (3 months ago)
