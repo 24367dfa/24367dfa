@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (1 day ago)
 - [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (1 week ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 week ago)
 - [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (3 weeks ago)
@@ -11,7 +12,6 @@
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) - Extract website information for the cleanURI service. (4 months ago)
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) - Reduce a URL to canonical form for the cleanURI service. (4 months ago)
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (4 months ago)
-- [netz39/Ordnungen](https://github.com/netz39/Ordnungen) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (today)
 - [devatherock/artifactory-badge](https://github.com/devatherock/artifactory-badge) - Badge generator for docker registries hosted in jfrog artifactory (1 day ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (2 days ago)
 - [netz39/Stepper-Locking-System_firmware](https://github.com/netz39/Stepper-Locking-System_firmware) - The C&#43;&#43; firmware for our Stepper-Locking-System. (3 days ago)
@@ -65,7 +66,6 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (3 days ago)
 - [JensWinter/tech-events-magdeburg](https://github.com/JensWinter/tech-events-magdeburg) - Terminliste aktueller IT-Events in und um Magdeburg (3 days ago)
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (1 week ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
