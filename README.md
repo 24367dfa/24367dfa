@@ -56,6 +56,7 @@
 
 #### ⭐ Recent Stars
 
+- [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization (today)
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (2 days ago)
 - [devatherock/artifactory-badge](https://github.com/devatherock/artifactory-badge) - Badge generator for docker registries hosted in jfrog artifactory (3 days ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (4 days ago)
@@ -65,7 +66,6 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor (5 days ago)
 - [JensWinter/tech-events-magdeburg](https://github.com/JensWinter/tech-events-magdeburg) - Terminliste aktueller IT-Events in und um Magdeburg (5 days ago)
-- [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
