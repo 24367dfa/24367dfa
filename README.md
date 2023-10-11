@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (today)
 - [feat: set oci labels for docker image in ci job](https://github.com/kube-logging/fluentd-images/pull/77) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (2 days ago)
 - [feat: add link checker to github actions](https://github.com/netz39/blockchain-infosite/pull/11) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (3 days ago)
 - [convert ruby deps to Gemfile](https://github.com/kube-logging/fluentd-images/pull/68) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (1 week ago)
@@ -49,7 +50,6 @@
 - [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (4 months ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (4 months ago)
 - [fix: typo in README.md](https://github.com/penguineer/cleanURI-apigateway/pull/20) on [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) (4 months ago)
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-canonizer/pull/15) on [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) (4 months ago)
 
 #### 📓 Gists I wrote
 
