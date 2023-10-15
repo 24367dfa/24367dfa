@@ -40,6 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [doc: fix link to github repo in about.md](https://github.com/sylhare/Type-on-Strap/pull/400) on [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) (today)
+- [doc: fix link to github repo in about.md](https://github.com/24367dfa/Type-on-Strap/pull/1) on [24367dfa/Type-on-Strap](https://github.com/24367dfa/Type-on-Strap) (today)
 - [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (4 days ago)
 - [feat: set oci labels for docker image in ci job](https://github.com/kube-logging/fluentd-images/pull/77) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (6 days ago)
 - [feat: add link checker to github actions](https://github.com/netz39/blockchain-infosite/pull/11) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (1 week ago)
@@ -48,8 +50,6 @@
 - [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (1 month ago)
 - [Feat/rework wg broker server](https://github.com/christf/wg-broker/pull/12) on [christf/wg-broker](https://github.com/christf/wg-broker) (3 months ago)
 - [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (4 months ago)
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-extractor/pull/15) on [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) (5 months ago)
-- [fix: typo in README.md](https://github.com/penguineer/cleanURI-apigateway/pull/20) on [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) (5 months ago)
 
 #### 📓 Gists I wrote
 
