@@ -2,11 +2,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (5 days ago)
-- [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (6 days ago)
+- [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (6 days ago)
+- [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 week ago)
 - [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (2 weeks ago)
 - [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (1 month ago)
-- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (3 months ago)
+- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (4 months ago)
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (4 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 months ago)
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) - Extract website information for the cleanURI service. (5 months ago)
@@ -40,9 +40,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (3 days ago)
-- [feat: set oci labels for docker image in ci job](https://github.com/kube-logging/fluentd-images/pull/77) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (5 days ago)
-- [feat: add link checker to github actions](https://github.com/netz39/blockchain-infosite/pull/11) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (6 days ago)
+- [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (4 days ago)
+- [feat: set oci labels for docker image in ci job](https://github.com/kube-logging/fluentd-images/pull/77) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (6 days ago)
+- [feat: add link checker to github actions](https://github.com/netz39/blockchain-infosite/pull/11) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (1 week ago)
 - [convert ruby deps to Gemfile](https://github.com/kube-logging/fluentd-images/pull/68) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (1 week ago)
 - [pin dependency opensearch-ruby to 3.0.1](https://github.com/fluent/fluent-plugin-opensearch/pull/116) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (3 weeks ago)
 - [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (1 month ago)
@@ -56,8 +56,8 @@
 
 #### ⭐ Recent Stars
 
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) (today)
-- [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization (6 days ago)
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) (1 day ago)
+- [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization (1 week ago)
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (1 week ago)
 - [devatherock/artifactory-badge](https://github.com/devatherock/artifactory-badge) - Badge generator for docker registries hosted in jfrog artifactory (1 week ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (1 week ago)
