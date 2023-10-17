@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: migrate blogposts](https://github.com/netz39/n39-jekyll-webpage/pull/9) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (today)
 - [doc: fix link to github repo in about.md](https://github.com/sylhare/Type-on-Strap/pull/400) on [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) (2 days ago)
 - [doc: fix link to github repo in about.md](https://github.com/24367dfa/Type-on-Strap/pull/1) on [24367dfa/Type-on-Strap](https://github.com/24367dfa/Type-on-Strap) (2 days ago)
 - [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (6 days ago)
@@ -49,7 +50,6 @@
 - [pin dependency opensearch-ruby to 3.0.1](https://github.com/fluent/fluent-plugin-opensearch/pull/116) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (3 weeks ago)
 - [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (1 month ago)
 - [Feat/rework wg broker server](https://github.com/christf/wg-broker/pull/12) on [christf/wg-broker](https://github.com/christf/wg-broker) (3 months ago)
-- [Feat/meeting reminder](https://github.com/netz39/istheuteplenum/pull/7) on [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) (4 months ago)
 
 #### 📓 Gists I wrote
 
