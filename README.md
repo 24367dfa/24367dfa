@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [add page Kontakt from old website](https://github.com/netz39/n39-jekyll-webpage/pull/18) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (today)
 - [fix: remove unnecessary github actions](https://github.com/netz39/n39-jekyll-webpage/pull/11) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (2 days ago)
 - [feat: migrate blogposts](https://github.com/netz39/n39-jekyll-webpage/pull/9) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (2 days ago)
 - [doc: fix link to github repo in about.md](https://github.com/sylhare/Type-on-Strap/pull/400) on [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) (4 days ago)
@@ -49,7 +50,6 @@
 - [feat: add link checker to github actions](https://github.com/netz39/blockchain-infosite/pull/11) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (1 week ago)
 - [convert ruby deps to Gemfile](https://github.com/kube-logging/fluentd-images/pull/68) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (2 weeks ago)
 - [pin dependency opensearch-ruby to 3.0.1](https://github.com/fluent/fluent-plugin-opensearch/pull/116) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (4 weeks ago)
-- [docs: fix link to jq source project](https://github.com/mjarosie/jq-chocolatey-package/pull/4) on [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) (1 month ago)
 
 #### 📓 Gists I wrote
 
