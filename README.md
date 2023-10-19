@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [21 kontaktpage discord link broken](https://github.com/netz39/n39-jekyll-webpage/pull/22) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (today)
 - [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/n39-jekyll-webpage/pull/20) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (today)
 - [add page Kontakt from old website](https://github.com/netz39/n39-jekyll-webpage/pull/18) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (today)
 - [fix: remove unnecessary github actions](https://github.com/netz39/n39-jekyll-webpage/pull/11) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (2 days ago)
@@ -49,7 +50,6 @@
 - [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (1 week ago)
 - [feat: set oci labels for docker image in ci job](https://github.com/kube-logging/fluentd-images/pull/77) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (1 week ago)
 - [feat: add link checker to github actions](https://github.com/netz39/blockchain-infosite/pull/11) on [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) (1 week ago)
-- [convert ruby deps to Gemfile](https://github.com/kube-logging/fluentd-images/pull/68) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
