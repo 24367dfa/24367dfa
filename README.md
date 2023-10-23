@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) - Webseite des Netz39 e.V. (3 days ago)
+- [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) - Webseite des Netz39 e.V. (today)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (1 week ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (2 weeks ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 weeks ago)
