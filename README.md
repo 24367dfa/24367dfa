@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) - Webseite des Netz39 e.V. (1 day ago)
+- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (today)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (1 week ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (2 weeks ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 weeks ago)
@@ -40,16 +40,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [migrate img and pdf files to git lfs](https://github.com/netz39/n39-jekyll-webpage/pull/37) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (2 days ago)
-- [21 kontaktpage discord link broken](https://github.com/netz39/n39-jekyll-webpage/pull/22) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (5 days ago)
-- [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/n39-jekyll-webpage/pull/20) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (5 days ago)
-- [add page Kontakt from old website](https://github.com/netz39/n39-jekyll-webpage/pull/18) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (5 days ago)
-- [fix: remove unnecessary github actions](https://github.com/netz39/n39-jekyll-webpage/pull/11) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (1 week ago)
-- [feat: migrate blogposts](https://github.com/netz39/n39-jekyll-webpage/pull/9) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (1 week ago)
+- [feat: add event git workshop](https://github.com/netz39/www.netz39.de/pull/41) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (today)
+- [migrate img and pdf files to git lfs](https://github.com/netz39/www.netz39.de/pull/37) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 days ago)
+- [21 kontaktpage discord link broken](https://github.com/netz39/www.netz39.de/pull/22) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (5 days ago)
+- [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/www.netz39.de/pull/20) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (5 days ago)
+- [add page Kontakt from old website](https://github.com/netz39/www.netz39.de/pull/18) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (5 days ago)
+- [fix: remove unnecessary github actions](https://github.com/netz39/www.netz39.de/pull/11) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
+- [feat: migrate blogposts](https://github.com/netz39/www.netz39.de/pull/9) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
 - [doc: fix link to github repo in about.md](https://github.com/sylhare/Type-on-Strap/pull/400) on [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) (1 week ago)
 - [doc: fix link to github repo in about.md](https://github.com/24367dfa/Type-on-Strap/pull/1) on [24367dfa/Type-on-Strap](https://github.com/24367dfa/Type-on-Strap) (1 week ago)
 - [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (1 week ago)
-- [feat: set oci labels for docker image in ci job](https://github.com/kube-logging/fluentd-images/pull/77) on [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
