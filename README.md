@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) - Webseite des Netz39 e.V. (today)
+- [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) - Webseite des Netz39 e.V. (1 day ago)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (1 week ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (2 weeks ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 weeks ago)
@@ -40,12 +40,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [migrate img and pdf files to git lfs](https://github.com/netz39/n39-jekyll-webpage/pull/37) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (1 day ago)
-- [21 kontaktpage discord link broken](https://github.com/netz39/n39-jekyll-webpage/pull/22) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (4 days ago)
-- [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/n39-jekyll-webpage/pull/20) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (4 days ago)
-- [add page Kontakt from old website](https://github.com/netz39/n39-jekyll-webpage/pull/18) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (4 days ago)
-- [fix: remove unnecessary github actions](https://github.com/netz39/n39-jekyll-webpage/pull/11) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (6 days ago)
-- [feat: migrate blogposts](https://github.com/netz39/n39-jekyll-webpage/pull/9) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (6 days ago)
+- [migrate img and pdf files to git lfs](https://github.com/netz39/n39-jekyll-webpage/pull/37) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (2 days ago)
+- [21 kontaktpage discord link broken](https://github.com/netz39/n39-jekyll-webpage/pull/22) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (5 days ago)
+- [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/n39-jekyll-webpage/pull/20) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (5 days ago)
+- [add page Kontakt from old website](https://github.com/netz39/n39-jekyll-webpage/pull/18) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (5 days ago)
+- [fix: remove unnecessary github actions](https://github.com/netz39/n39-jekyll-webpage/pull/11) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (1 week ago)
+- [feat: migrate blogposts](https://github.com/netz39/n39-jekyll-webpage/pull/9) on [netz39/n39-jekyll-webpage](https://github.com/netz39/n39-jekyll-webpage) (1 week ago)
 - [doc: fix link to github repo in about.md](https://github.com/sylhare/Type-on-Strap/pull/400) on [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) (1 week ago)
 - [doc: fix link to github repo in about.md](https://github.com/24367dfa/Type-on-Strap/pull/1) on [24367dfa/Type-on-Strap](https://github.com/24367dfa/Type-on-Strap) (1 week ago)
 - [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (1 week ago)
@@ -56,16 +56,16 @@
 
 #### ⭐ Recent Stars
 
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (5 days ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (6 days ago)
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) (1 week ago)
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization (2 weeks ago)
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (2 weeks ago)
 - [devatherock/artifactory-badge](https://github.com/devatherock/artifactory-badge) - Badge generator for docker registries hosted in jfrog artifactory (2 weeks ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (2 weeks ago)
-- [netz39/Stepper-Locking-System_firmware](https://github.com/netz39/Stepper-Locking-System_firmware) - The C&#43;&#43; firmware for our Stepper-Locking-System. (2 weeks ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 weeks ago)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (2 weeks ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
+- [netz39/Stepper-Locking-System_firmware](https://github.com/netz39/Stepper-Locking-System_firmware) - The C&#43;&#43; firmware for our Stepper-Locking-System. (3 weeks ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (3 weeks ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 weeks ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
