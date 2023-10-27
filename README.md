@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: update git workshop event](https://github.com/netz39/www.netz39.de/pull/52) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (today)
 - [feat: add event git workshop](https://github.com/netz39/www.netz39.de/pull/41) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 days ago)
 - [migrate img and pdf files to git lfs](https://github.com/netz39/www.netz39.de/pull/37) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (5 days ago)
 - [21 kontaktpage discord link broken](https://github.com/netz39/www.netz39.de/pull/22) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
@@ -49,7 +50,6 @@
 - [feat: migrate blogposts](https://github.com/netz39/www.netz39.de/pull/9) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
 - [doc: fix link to github repo in about.md](https://github.com/sylhare/Type-on-Strap/pull/400) on [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) (1 week ago)
 - [doc: fix link to github repo in about.md](https://github.com/24367dfa/Type-on-Strap/pull/1) on [24367dfa/Type-on-Strap](https://github.com/24367dfa/Type-on-Strap) (1 week ago)
-- [Docs/cleanup issue templates](https://github.com/fluent/fluent-plugin-opensearch/pull/119) on [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
