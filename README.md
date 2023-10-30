@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (2 days ago)
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (1 week ago)
-- [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (2 weeks ago)
+- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (3 days ago)
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (2 weeks ago)
+- [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (3 weeks ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (3 weeks ago)
 - [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (1 month ago)
 - [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (1 month ago)
@@ -27,8 +27,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 1 week ago) - This is the API gateway for the cleanURI service.
-- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.3.1](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.3.1), 1 week ago) - Reduce a URL to canonical form for the cleanURI service.
+- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 2 weeks ago) - This is the API gateway for the cleanURI service.
+- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.3.1](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.3.1), 2 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.6](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.6), 3 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 5 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 7 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
@@ -40,8 +40,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update git workshop event](https://github.com/netz39/www.netz39.de/pull/52) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 days ago)
-- [feat: add event git workshop](https://github.com/netz39/www.netz39.de/pull/41) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (5 days ago)
+- [fix: update git workshop event](https://github.com/netz39/www.netz39.de/pull/52) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 days ago)
+- [feat: add event git workshop](https://github.com/netz39/www.netz39.de/pull/41) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (6 days ago)
 - [migrate img and pdf files to git lfs](https://github.com/netz39/www.netz39.de/pull/37) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
 - [21 kontaktpage discord link broken](https://github.com/netz39/www.netz39.de/pull/22) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
 - [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/www.netz39.de/pull/20) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
