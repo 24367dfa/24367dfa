@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 week ago)
+- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (today)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (2 weeks ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (3 weeks ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (3 weeks ago)
@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (today)
 - [fix: update git workshop event](https://github.com/netz39/www.netz39.de/pull/52) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
 - [feat: add event git workshop](https://github.com/netz39/www.netz39.de/pull/41) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
 - [migrate img and pdf files to git lfs](https://github.com/netz39/www.netz39.de/pull/37) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
@@ -49,7 +50,6 @@
 - [fix: remove unnecessary github actions](https://github.com/netz39/www.netz39.de/pull/11) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 weeks ago)
 - [feat: migrate blogposts](https://github.com/netz39/www.netz39.de/pull/9) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 weeks ago)
 - [doc: fix link to github repo in about.md](https://github.com/sylhare/Type-on-Strap/pull/400) on [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) (2 weeks ago)
-- [doc: fix link to github repo in about.md](https://github.com/24367dfa/Type-on-Strap/pull/1) on [24367dfa/Type-on-Strap](https://github.com/24367dfa/Type-on-Strap) (2 weeks ago)
 
 #### 📓 Gists I wrote
 
