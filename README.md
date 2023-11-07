@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (today)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (today)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (today)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (3 weeks ago)
@@ -11,10 +12,10 @@
 - [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (1 month ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (4 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (5 months ago)
-- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) - This is the API gateway for the cleanURI service. (5 months ago)
 
 #### 🌱 My latest projects
 
+- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) - 
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) - 
 - [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) - 
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) - 
