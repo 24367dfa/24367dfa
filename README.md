@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (today)
 - [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 days ago)
 - [fix: update git workshop event](https://github.com/netz39/www.netz39.de/pull/52) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 week ago)
 - [feat: add event git workshop](https://github.com/netz39/www.netz39.de/pull/41) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 weeks ago)
@@ -49,7 +50,6 @@
 - [add page Kontakt from old website](https://github.com/netz39/www.netz39.de/pull/18) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 weeks ago)
 - [fix: remove unnecessary github actions](https://github.com/netz39/www.netz39.de/pull/11) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 weeks ago)
 - [feat: migrate blogposts](https://github.com/netz39/www.netz39.de/pull/9) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 weeks ago)
-- [doc: fix link to github repo in about.md](https://github.com/sylhare/Type-on-Strap/pull/400) on [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) (3 weeks ago)
 
 #### 📓 Gists I wrote
 
