@@ -2,7 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (3 days ago)
+- [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (today)
+- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (today)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (3 weeks ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (4 weeks ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 month ago)
@@ -11,10 +12,10 @@
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (4 months ago)
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) -  (5 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (5 months ago)
-- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) - Extract website information for the cleanURI service. (5 months ago)
 
 #### 🌱 My latest projects
 
+- [24367dfa/micha60](https://github.com/24367dfa/micha60) - 
 - [24367dfa/marp-presentation](https://github.com/24367dfa/marp-presentation) - 
 - [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) - 
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) - 
