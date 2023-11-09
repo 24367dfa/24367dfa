@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 day ago)
+- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (today)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (1 day ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (2 days ago)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (3 weeks ago)
