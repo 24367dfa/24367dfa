@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (today)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (4 days ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (4 days ago)
-- [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (6 days ago)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (4 weeks ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (1 month ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 month ago)
