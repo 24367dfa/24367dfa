@@ -4,8 +4,8 @@
 
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (today)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (1 day ago)
-- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (5 days ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (5 days ago)
+- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (5 days ago)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (4 weeks ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (1 month ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 month ago)
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) ([1.0.5](https://github.com/24367dfa/ansible-role-dehydrated/releases/tag/1.0.5), today) - 
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 4 weeks ago) - This is the API gateway for the cleanURI service.
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.3.1](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.3.1), 4 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.6](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.6), 3 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
@@ -37,7 +38,6 @@
 - [FreifunkMD/md.freifunk.net-bind9](https://github.com/FreifunkMD/md.freifunk.net-bind9) ([v2022122301](https://github.com/FreifunkMD/md.freifunk.net-bind9/releases/tag/v2022122301), 10 months ago) - Bind9 container image with configuration for md.freifunk.net
 - [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 10 months ago) - Bind9 container image with configuration for the ffmd zone
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.3.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.3.0), 1 year ago) - Extract website information for the cleanURI service.
-- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 1 year ago) - Install the BLE KeyKeeper service on a Raspbian system
 
 #### 🔨 My recent Pull Requests
 
