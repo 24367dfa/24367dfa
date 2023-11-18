@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (today)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (3 days ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (4 days ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (5 days ago)
@@ -11,7 +12,6 @@
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 month ago)
 - [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (1 month ago)
 - [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (2 months ago)
-- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (5 months ago)
 
 #### 🌱 My latest projects
 
