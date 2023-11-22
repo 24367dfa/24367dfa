@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (today)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (today)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 days ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (1 week ago)
@@ -11,10 +12,10 @@
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (1 month ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (1 month ago)
 - [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (1 month ago)
-- [mjarosie/jq-chocolatey-package](https://github.com/mjarosie/jq-chocolatey-package) - Chocolatey package for jq (2 months ago)
 
 #### 🌱 My latest projects
 
+- [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) - 
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) - 
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) - 
 - [24367dfa/gh-pages](https://github.com/24367dfa/gh-pages) - 
@@ -24,7 +25,6 @@
 - [24367dfa/awm661tx](https://github.com/24367dfa/awm661tx) - 
 - [24367dfa/n39_flightbadge](https://github.com/24367dfa/n39_flightbadge) - Badge for the netz39 FlightCrew
 - [24367dfa/n39_slic3rConfig](https://github.com/24367dfa/n39_slic3rConfig) - Repository containing the configurationfiles for slic3r used at netz39
-- [24367dfa/myThings](https://github.com/24367dfa/myThings) - 
 
 #### 🔭 Latest releases I've contributed to
 
