@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (today)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 days ago)
-- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (1 week ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (1 week ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (1 week ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 week ago)
