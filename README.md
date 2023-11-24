@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology&#39;s compatible drive database (today)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks. (1 month ago)
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization (1 month ago)
@@ -66,7 +67,6 @@
 - [netz39/Stepper-Locking-System_firmware](https://github.com/netz39/Stepper-Locking-System_firmware) - The C&#43;&#43; firmware for our Stepper-Locking-System. (1 month ago)
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 month ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 month ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
