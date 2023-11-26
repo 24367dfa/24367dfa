@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (today)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (4 days ago)
-- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (4 days ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 week ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (1 week ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (1 week ago)
@@ -41,6 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (today)
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (1 week ago)
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 weeks ago)
 - [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 weeks ago)
@@ -50,7 +51,6 @@
 - [migrate img and pdf files to git lfs](https://github.com/netz39/www.netz39.de/pull/37) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [21 kontaktpage discord link broken](https://github.com/netz39/www.netz39.de/pull/22) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/www.netz39.de/pull/20) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
-- [add page Kontakt from old website](https://github.com/netz39/www.netz39.de/pull/18) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 
 #### 📓 Gists I wrote
 
