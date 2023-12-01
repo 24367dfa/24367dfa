@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (today)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (2 days ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (5 days ago)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (1 week ago)
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 week ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (2 weeks ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (2 weeks ago)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (1 month ago)
