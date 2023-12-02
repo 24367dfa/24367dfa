@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (today)
-- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (2 days ago)
-- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (5 days ago)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 day ago)
+- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (3 days ago)
+- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (6 days ago)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (1 week ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (2 weeks ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (2 weeks ago)
@@ -41,11 +41,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (5 days ago)
+- [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (6 days ago)
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (2 weeks ago)
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 weeks ago)
 - [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 weeks ago)
-- [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 weeks ago)
+- [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (4 weeks ago)
 - [fix: update git workshop event](https://github.com/netz39/www.netz39.de/pull/52) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [feat: add event git workshop](https://github.com/netz39/www.netz39.de/pull/41) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [migrate img and pdf files to git lfs](https://github.com/netz39/www.netz39.de/pull/37) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (1 day ago)
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (2 days ago)
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology&#39;s compatible drive database (1 week ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks. (1 month ago)
@@ -65,8 +65,8 @@
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (1 month ago)
 - [devatherock/artifactory-badge](https://github.com/devatherock/artifactory-badge) - Badge generator for docker registries hosted in jfrog artifactory (1 month ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (1 month ago)
-- [netz39/Stepper-Locking-System_firmware](https://github.com/netz39/Stepper-Locking-System_firmware) - The C&#43;&#43; firmware for our Stepper-Locking-System. (1 month ago)
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (1 month ago)
+- [netz39/Stepper-Locking-System_firmware](https://github.com/netz39/Stepper-Locking-System_firmware) - The C&#43;&#43; firmware for our Stepper-Locking-System. (2 months ago)
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
