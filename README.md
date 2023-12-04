@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.7](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.7), today) - 🎨 Simplistic, responsive jekyll based open source theme
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.4.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.4.0), 1 week ago) - Reduce a URL to canonical form for the cleanURI service.
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 1 month ago) - This is the API gateway for the cleanURI service.
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.6](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.6), 4 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 7 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 8 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2023032003](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2023032003), 8 months ago) - Playground (Actions, etc) für DNS-Repos
