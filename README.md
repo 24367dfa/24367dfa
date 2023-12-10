@@ -4,12 +4,12 @@
 
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 week ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 week ago)
-- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (1 week ago)
+- [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (2 weeks ago)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (2 weeks ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (3 weeks ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (3 weeks ago)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (1 month ago)
-- [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (1 month ago)
+- [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (2 months ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (2 months ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (2 months ago)
 
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.7](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.7), 5 days ago) - 🎨 Simplistic, responsive jekyll based open source theme
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.7](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.7), 6 days ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.4.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.4.0), 2 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 1 month ago) - This is the API gateway for the cleanURI service.
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 7 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
@@ -41,7 +41,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (1 week ago)
+- [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (2 weeks ago)
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (3 weeks ago)
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
