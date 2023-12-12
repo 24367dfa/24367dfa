@@ -6,7 +6,7 @@
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 week ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (2 weeks ago)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (2 weeks ago)
-- [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (3 weeks ago)
+- [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (4 weeks ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (4 weeks ago)
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (1 month ago)
 - [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (2 months ago)
@@ -29,7 +29,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.7](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.7), 1 week ago) - 🎨 Simplistic, responsive jekyll based open source theme
-- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.4.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.4.0), 2 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
+- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.4.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.4.0), 3 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 1 month ago) - This is the API gateway for the cleanURI service.
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 7 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 8 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
@@ -42,7 +42,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (2 weeks ago)
-- [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (3 weeks ago)
+- [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (4 weeks ago)
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (today)
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (1 day ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (1 week ago)
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology&#39;s compatible drive database (2 weeks ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
