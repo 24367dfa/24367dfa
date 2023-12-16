@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (4 days ago)
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (5 days ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (2 weeks ago)
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology&#39;s compatible drive database (3 weeks ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 month ago)
