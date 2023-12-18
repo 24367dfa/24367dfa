@@ -28,13 +28,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.7](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.7), 1 week ago) - 🎨 Simplistic, responsive jekyll based open source theme
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.7](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.7), 2 weeks ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.4.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.4.0), 3 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 2 months ago) - This is the API gateway for the cleanURI service.
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 7 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 9 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [FreifunkMD/dns-test-repo](https://github.com/FreifunkMD/dns-test-repo) ([v2023032003](https://github.com/FreifunkMD/dns-test-repo/releases/tag/v2023032003), 9 months ago) - Playground (Actions, etc) für DNS-Repos
-- [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 11 months ago) - Bind9 container image with configuration for the ffmd zone
+- [FreifunkMD/ffmd-bind9](https://github.com/FreifunkMD/ffmd-bind9) ([v2022122201](https://github.com/FreifunkMD/ffmd-bind9/releases/tag/v2022122201), 1 year ago) - Bind9 container image with configuration for the ffmd zone
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.3.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.3.0), 1 year ago) - Extract website information for the cleanURI service.
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 1 year ago) - Install the BLE KeyKeeper service on a Raspbian system
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) ([v0.35](https://github.com/FreifunkMD/site-ffmd/releases/tag/v0.35), 7 years ago) - Freifunk Magdeburg specific Gluon configuration
@@ -49,15 +49,15 @@
 - [fix: update git workshop event](https://github.com/netz39/www.netz39.de/pull/52) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [feat: add event git workshop](https://github.com/netz39/www.netz39.de/pull/41) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
 - [migrate img and pdf files to git lfs](https://github.com/netz39/www.netz39.de/pull/37) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
-- [21 kontaktpage discord link broken](https://github.com/netz39/www.netz39.de/pull/22) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
-- [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/www.netz39.de/pull/20) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
+- [21 kontaktpage discord link broken](https://github.com/netz39/www.netz39.de/pull/22) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 months ago)
+- [remove obsolete parts of datenschutzerklärung](https://github.com/netz39/www.netz39.de/pull/20) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (6 days ago)
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (1 week ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (2 weeks ago)
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology&#39;s compatible drive database (3 weeks ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 months ago)
