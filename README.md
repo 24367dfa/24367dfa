@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.8](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.8), 1 week ago) - 🎨 Simplistic, responsive jekyll based open source theme
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.8](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.8), 2 weeks ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.4.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.4.0), 1 month ago) - Reduce a URL to canonical form for the cleanURI service.
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 2 months ago) - This is the API gateway for the cleanURI service.
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 8 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
@@ -64,7 +64,7 @@
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization (2 months ago)
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (2 months ago)
 - [devatherock/artifactory-badge](https://github.com/devatherock/artifactory-badge) - Badge generator for docker registries hosted in jfrog artifactory (2 months ago)
-- [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (2 months ago)
+- [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
