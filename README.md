@@ -55,8 +55,8 @@
 
 #### ⭐ Recent Stars
 
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (6 days ago)
-- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (2 weeks ago)
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 week ago)
+- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (3 weeks ago)
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (1 month ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (1 month ago)
 - [007revad/Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology&#39;s compatible drive database (1 month ago)
