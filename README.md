@@ -8,7 +8,7 @@
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (1 month ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (2 months ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (2 months ago)
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (2 months ago)
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (3 months ago)
 - [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (3 months ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (3 months ago)
 - [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (3 months ago)
@@ -30,7 +30,7 @@
 
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.8](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.8), 3 weeks ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.4.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.4.0), 1 month ago) - Reduce a URL to canonical form for the cleanURI service.
-- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 2 months ago) - This is the API gateway for the cleanURI service.
+- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 3 months ago) - This is the API gateway for the cleanURI service.
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 8 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 9 months ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.3.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.3.0), 1 year ago) - Extract website information for the cleanURI service.
