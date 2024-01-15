@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (today)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 month ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 month ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (1 month ago)
@@ -11,7 +12,6 @@
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) - 🎨 Simplistic, responsive jekyll based open source theme (3 months ago)
 - [fluent/fluent-plugin-opensearch](https://github.com/fluent/fluent-plugin-opensearch) - OpenSearch Plugin for Fluentd  (3 months ago)
 - [kube-logging/fluentd-images](https://github.com/kube-logging/fluentd-images) - Custom-built Fluentd images for the Logging operator (3 months ago)
-- [netz39/blockchain-infosite](https://github.com/netz39/blockchain-infosite) - Zusammenfassung der Netz39-Meinung zu Blockchains (3 months ago)
 
 #### 🌱 My latest projects
 
