@@ -55,6 +55,7 @@
 
 #### ⭐ Recent Stars
 
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (today)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 week ago)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (3 weeks ago)
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (1 month ago)
@@ -64,7 +65,6 @@
 - [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks. (3 months ago)
 - [InnerSourceCommons/InnerSourcePatterns](https://github.com/InnerSourceCommons/InnerSourcePatterns) - Proven approaches that can guide you through applying open source best practices within your organization (3 months ago)
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown. (3 months ago)
-- [devatherock/artifactory-badge](https://github.com/devatherock/artifactory-badge) - Badge generator for docker registries hosted in jfrog artifactory (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
