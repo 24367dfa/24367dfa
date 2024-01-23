@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) -  (1 week ago)
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (1 week ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (1 week ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 month ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 month ago)
