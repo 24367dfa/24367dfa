@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 1 day ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 2 days ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.8](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.8), 1 month ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.4.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.4.0), 2 months ago) - Reduce a URL to canonical form for the cleanURI service.
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 3 months ago) - This is the API gateway for the cleanURI service.
@@ -58,7 +58,7 @@
 
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (2 weeks ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 weeks ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (4 weeks ago)
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 month ago)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (1 month ago)
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (1 month ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (2 months ago)
