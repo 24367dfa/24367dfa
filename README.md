@@ -40,6 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (today)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (1 week ago)
 - [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 weeks ago)
 - [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 weeks ago)
@@ -49,7 +50,6 @@
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 months ago)
 - [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 months ago)
 - [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 months ago)
-- [fix: update git workshop event](https://github.com/netz39/www.netz39.de/pull/52) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (4 months ago)
 
 #### 📓 Gists I wrote
 
