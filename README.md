@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 1 day ago) - Extract website information for the cleanURI service.
-- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 1 day ago) - Reduce a URL to canonical form for the cleanURI service.
+- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 2 days ago) - Extract website information for the cleanURI service.
+- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 2 days ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.9](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.9), 1 week ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 3 weeks ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 4 months ago) - This is the API gateway for the cleanURI service.
@@ -40,7 +40,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (today)
+- [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (1 day ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (1 week ago)
 - [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 weeks ago)
 - [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 weeks ago)
@@ -57,7 +57,7 @@
 #### ⭐ Recent Stars
 
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (1 week ago)
-- [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (1 week ago)
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (2 weeks ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (3 weeks ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
