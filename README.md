@@ -58,7 +58,7 @@
 #### ⭐ Recent Stars
 
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (3 weeks ago)
-- [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (3 weeks ago)
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (4 weeks ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (1 month ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 month ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 month ago)
