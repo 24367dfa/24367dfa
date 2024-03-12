@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 week ago)
+- [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (2 weeks ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (3 weeks ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 month ago)
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (1 month ago)
@@ -11,7 +11,7 @@
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (3 months ago)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (3 months ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (3 months ago)
-- [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (3 months ago)
+- [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (4 months ago)
 
 #### 🌱 My latest projects
 
