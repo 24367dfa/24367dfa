@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v4.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v4.0), today) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 3 weeks ago) - Extract website information for the cleanURI service.
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 3 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.9](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.9), 1 month ago) - 🎨 Simplistic, responsive jekyll based open source theme
@@ -35,7 +36,6 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.15.1](https://github.com/jhaals/yopass/releases/tag/11.15.1), 5 months ago) - Secure sharing of secrets, passwords and files 
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 5 months ago) - This is the API gateway for the cleanURI service.
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 10 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
-- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v3.1](https://github.com/netz39/Mitgliedsantraege/releases/tag/v3.1), 1 year ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 2 years ago) - Install the BLE KeyKeeper service on a Raspbian system
 - [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) ([v0.35](https://github.com/FreifunkMD/site-ffmd/releases/tag/v0.35), 8 years ago) - Freifunk Magdeburg specific Gluon configuration
 
