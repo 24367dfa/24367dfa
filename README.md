@@ -28,7 +28,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v4.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v4.0), 2 days ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 4 weeks ago) - Extract website information for the cleanURI service.
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 4 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.9](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.9), 1 month ago) - 🎨 Simplistic, responsive jekyll based open source theme
