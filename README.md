@@ -28,9 +28,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v4.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v4.0), 1 day ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
-- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 3 weeks ago) - Extract website information for the cleanURI service.
-- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 3 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
+- [netz39/Mitgliedsantraege](https://github.com/netz39/Mitgliedsantraege) ([v4.0](https://github.com/netz39/Mitgliedsantraege/releases/tag/v4.0), 2 days ago) - LaTeX Vorlagen für die Mitgliedsanträge des Netz39 e.V.
+- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 4 weeks ago) - Extract website information for the cleanURI service.
+- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 4 weeks ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.9](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.9), 1 month ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 1 month ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.15.1](https://github.com/jhaals/yopass/releases/tag/11.15.1), 5 months ago) - Secure sharing of secrets, passwords and files 
@@ -57,8 +57,8 @@
 
 #### ⭐ Recent Stars
 
-- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (3 days ago)
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (3 days ago)
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (4 days ago)
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (4 days ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (1 month ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (1 month ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (1 month ago)
