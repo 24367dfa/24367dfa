@@ -36,7 +36,6 @@
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 5 months ago) - This is the API gateway for the cleanURI service.
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 10 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
 - [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 2 years ago) - Install the BLE KeyKeeper service on a Raspbian system
-- [FreifunkMD/site-ffmd](https://github.com/FreifunkMD/site-ffmd) ([v0.35](https://github.com/FreifunkMD/site-ffmd/releases/tag/v0.35), 8 years ago) - Freifunk Magdeburg specific Gluon configuration
 
 #### 🔨 My recent Pull Requests
 
