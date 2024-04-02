@@ -48,15 +48,15 @@
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (4 months ago)
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (4 months ago)
 - [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (4 months ago)
-- [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (4 months ago)
+- [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (5 months ago)
 
 #### 📓 Gists I wrote
 
 
 #### ⭐ Recent Stars
 
-- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (1 week ago)
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (1 week ago)
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (2 weeks ago)
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (2 weeks ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (1 month ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (1 month ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (1 month ago)
