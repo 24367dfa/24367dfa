@@ -35,7 +35,6 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.15.1](https://github.com/jhaals/yopass/releases/tag/11.15.1), 5 months ago) - Secure sharing of secrets, passwords and files 
 - [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 5 months ago) - This is the API gateway for the cleanURI service.
 - [netz39/Ordnungen](https://github.com/netz39/Ordnungen) ([v2.2.0](https://github.com/netz39/Ordnungen/releases/tag/v2.2.0), 11 months ago) - Dies sind die Ordnungen des Netz39 e.V. Magdeburg
-- [netz39/ble-keykeeper-role](https://github.com/netz39/ble-keykeeper-role) ([v1.1.0](https://github.com/netz39/ble-keykeeper-role/releases/tag/v1.1.0), 2 years ago) - Install the BLE KeyKeeper service on a Raspbian system
 
 #### 🔨 My recent Pull Requests
 
