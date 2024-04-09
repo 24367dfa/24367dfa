@@ -4,7 +4,7 @@
 
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 month ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (1 month ago)
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 month ago)
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (2 months ago)
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (2 months ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (2 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 months ago)
@@ -40,8 +40,8 @@
 
 - [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (1 month ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (1 month ago)
-- [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (1 month ago)
-- [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (1 month ago)
+- [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 months ago)
+- [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 months ago)
 - [Feat/pre-commit](https://github.com/netz39/www.netz39.de/pull/103) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (2 months ago)
 - [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (4 months ago)
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (4 months ago)
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (2 weeks ago)
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (2 weeks ago)
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (3 weeks ago)
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (3 weeks ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (1 month ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (1 month ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (2 months ago)
@@ -63,7 +63,7 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 months ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (3 months ago)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (3 months ago)
-- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (3 months ago)
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
