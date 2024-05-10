@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.16.0](https://github.com/jhaals/yopass/releases/tag/11.16.0), today) - Secure sharing of secrets, passwords and files 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.16.0](https://github.com/jhaals/yopass/releases/tag/11.16.0), 1 day ago) - Secure sharing of secrets, passwords and files 
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 2 months ago) - Extract website information for the cleanURI service.
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 2 months ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.9](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.9), 2 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
