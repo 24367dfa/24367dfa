@@ -10,7 +10,7 @@
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (5 months ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (5 months ago)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (5 months ago)
-- [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (5 months ago)
+- [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (6 months ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (6 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.16.0](https://github.com/jhaals/yopass/releases/tag/11.16.0), 2 days ago) - Secure sharing of secrets, passwords and files 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.16.0](https://github.com/jhaals/yopass/releases/tag/11.16.0), 3 days ago) - Secure sharing of secrets, passwords and files 
 - [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 2 months ago) - Extract website information for the cleanURI service.
 - [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 2 months ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.9](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.9), 2 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
@@ -43,7 +43,7 @@
 - [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (3 months ago)
 - [Feat/pre-commit](https://github.com/netz39/www.netz39.de/pull/103) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (3 months ago)
 - [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (5 months ago)
-- [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (5 months ago)
+- [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (6 months ago)
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (6 months ago)
 - [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (6 months ago)
 - [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (6 months ago)
@@ -56,7 +56,7 @@
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (1 month ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (1 month ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (2 months ago)
-- [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (2 months ago)
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (3 months ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (3 months ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (3 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (3 months ago)
