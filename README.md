@@ -29,11 +29,8 @@
 #### 🔭 Latest releases I've contributed to
 
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.16.0](https://github.com/jhaals/yopass/releases/tag/11.16.0), 1 week ago) - Secure sharing of secrets, passwords and files 
-- [penguineer/cleanURI-extractor](https://github.com/penguineer/cleanURI-extractor) ([v0.5.0](https://github.com/penguineer/cleanURI-extractor/releases/tag/v0.5.0), 2 months ago) - Extract website information for the cleanURI service.
-- [penguineer/cleanURI-canonizer](https://github.com/penguineer/cleanURI-canonizer) ([v0.5.0](https://github.com/penguineer/cleanURI-canonizer/releases/tag/v0.5.0), 2 months ago) - Reduce a URL to canonical form for the cleanURI service.
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.9](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.9), 3 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 3 months ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
-- [penguineer/cleanURI-apigateway](https://github.com/penguineer/cleanURI-apigateway) ([v0.3.1](https://github.com/penguineer/cleanURI-apigateway/releases/tag/v0.3.1), 7 months ago) - This is the API gateway for the cleanURI service.
 
 #### 🔨 My recent Pull Requests
 
