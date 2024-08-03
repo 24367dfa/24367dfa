@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.10](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.10), today) - 🎨 Simplistic, responsive jekyll based open source theme
+- [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.10](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.10), 1 day ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.16.0](https://github.com/jhaals/yopass/releases/tag/11.16.0), 2 months ago) - Secure sharing of secrets, passwords and files 
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 6 months ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 
@@ -42,7 +42,7 @@
 - [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (8 months ago)
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (8 months ago)
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (8 months ago)
-- [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (8 months ago)
+- [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (9 months ago)
 - [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (9 months ago)
 
 #### 📓 Gists I wrote
