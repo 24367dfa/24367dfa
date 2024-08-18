@@ -9,7 +9,7 @@
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (7 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (8 months ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (8 months ago)
-- [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (8 months ago)
+- [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (9 months ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (9 months ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (9 months ago)
 
