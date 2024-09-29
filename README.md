@@ -43,7 +43,7 @@
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (10 months ago)
 - [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (10 months ago)
 - [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (10 months ago)
-- [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (10 months ago)
+- [feat: add ics feed](https://github.com/netz39/www.netz39.de/pull/67) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (11 months ago)
 
 #### 📓 Gists I wrote
 
