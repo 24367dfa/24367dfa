@@ -5,7 +5,7 @@
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (1 month ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (7 months ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (7 months ago)
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (7 months ago)
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (8 months ago)
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (8 months ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (8 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (10 months ago)
@@ -29,15 +29,15 @@
 #### 🔭 Latest releases I've contributed to
 
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.10](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.10), 2 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.16.0](https://github.com/jhaals/yopass/releases/tag/11.16.0), 4 months ago) - Secure sharing of secrets, passwords and files 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.16.0](https://github.com/jhaals/yopass/releases/tag/11.16.0), 5 months ago) - Secure sharing of secrets, passwords and files 
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 8 months ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 
 #### 🔨 My recent Pull Requests
 
 - [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (7 months ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (7 months ago)
-- [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (7 months ago)
-- [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (7 months ago)
+- [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (8 months ago)
+- [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (8 months ago)
 - [Feat/pre-commit](https://github.com/netz39/www.netz39.de/pull/103) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (8 months ago)
 - [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (10 months ago)
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (10 months ago)
@@ -59,7 +59,7 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (8 months ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (9 months ago)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (9 months ago)
-- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (9 months ago)
+- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
