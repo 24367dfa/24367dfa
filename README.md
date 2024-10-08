@@ -11,7 +11,7 @@
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (10 months ago)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (10 months ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (10 months ago)
-- [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (10 months ago)
+- [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -54,7 +54,7 @@
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (6 months ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (7 months ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (7 months ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - Pre-commit hook to ensure image EXIF data is removed. (8 months ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed. (8 months ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (8 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (8 months ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (9 months ago)
