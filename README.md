@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 4 days ago) - Secure sharing of secrets, passwords and files 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 5 days ago) - Secure sharing of secrets, passwords and files 
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.10](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.10), 2 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 8 months ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 
@@ -55,7 +55,7 @@
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (8 months ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (8 months ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed. (8 months ago)
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (8 months ago)
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (9 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (9 months ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (9 months ago)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (9 months ago)
