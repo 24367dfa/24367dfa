@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 6 days ago) - Secure sharing of secrets, passwords and files 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 1 week ago) - Secure sharing of secrets, passwords and files 
 - [sylhare/Type-on-Strap](https://github.com/sylhare/Type-on-Strap) ([v2.4.10](https://github.com/sylhare/Type-on-Strap/releases/tag/v2.4.10), 2 months ago) - 🎨 Simplistic, responsive jekyll based open source theme
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 8 months ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 
@@ -58,7 +58,7 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (9 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (9 months ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (9 months ago)
-- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (9 months ago)
+- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (10 months ago)
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
