@@ -9,7 +9,7 @@
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (9 months ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (9 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (10 months ago)
-- [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (10 months ago)
+- [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (11 months ago)
 - [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (11 months ago)
 - [24367dfa/micha60](https://github.com/24367dfa/micha60) -  (11 months ago)
 
