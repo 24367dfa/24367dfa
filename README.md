@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 1 week ago) - Secure sharing of secrets, passwords and files 
+- [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 2 weeks ago) - Secure sharing of secrets, passwords and files 
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 8 months ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 
 #### 🔨 My recent Pull Requests
