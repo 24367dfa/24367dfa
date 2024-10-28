@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix: add plugin jekyll-github-metadata to correctly populate site var…](https://github.com/netz39/www.netz39.de/pull/138) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 day ago)
+- [fix: add missing repository variable to _config,yml](https://github.com/netz39/www.netz39.de/pull/138) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 day ago)
 - [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (8 months ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (8 months ago)
 - [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (8 months ago)
