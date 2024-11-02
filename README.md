@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) - Microservice to provide the Controller for our Traffic Light and Space Status (today)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (5 days ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (2 months ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (8 months ago)
@@ -11,7 +12,6 @@
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (9 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (11 months ago)
 - [24367dfa/workshop-example](https://github.com/24367dfa/workshop-example) -  (11 months ago)
-- [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -33,6 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (today)
+- [docs: remove emty list item in readme](https://github.com/netz39/Netz39AmpelController/pull/3) on [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) (today)
 - [fix: add missing repository variable to _config,yml](https://github.com/netz39/www.netz39.de/pull/138) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (6 days ago)
 - [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (8 months ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (8 months ago)
@@ -41,8 +43,6 @@
 - [Feat/pre-commit](https://github.com/netz39/www.netz39.de/pull/103) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (9 months ago)
 - [Fixes workshop](https://github.com/24367dfa/git-workshop/pull/4) on [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) (11 months ago)
 - [fix: change rendering of domains.txt to template](https://github.com/24367dfa/ansible-role-dehydrated/pull/14) on [24367dfa/ansible-role-dehydrated](https://github.com/24367dfa/ansible-role-dehydrated) (11 months ago)
-- [fix: wiki redirect url](https://github.com/netz39/www.netz39.de/pull/89) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 year ago)
-- [feat: add page ¨Spenden&#34; from old website](https://github.com/netz39/www.netz39.de/pull/81) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 year ago)
 
 #### 📓 Gists I wrote
 
