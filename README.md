@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) - Microservice to provide the Space API JSON from our MQTT topic status. (1 day ago)
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) - Microservice to provide the Controller for our Traffic Light and Space Status (1 day ago)
 - [netz39/space_notification](https://github.com/netz39/space_notification) - Teilprojekte der Space Notification (1 day ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (6 days ago)
@@ -11,7 +12,6 @@
 - [netz39/cdn.netz39.de](https://github.com/netz39/cdn.netz39.de) -  (9 months ago)
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (9 months ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (9 months ago)
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.0](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.0), 1 day ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 3 weeks ago) - Secure sharing of secrets, passwords and files 
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.1.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.1.0), 9 months ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 
