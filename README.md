@@ -56,7 +56,7 @@
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (9 months ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF data and extended attributes) is removed. (9 months ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (9 months ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (9 months ago)
+- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (10 months ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (10 months ago)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (10 months ago)
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (11 months ago)
