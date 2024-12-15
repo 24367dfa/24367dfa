@@ -58,7 +58,7 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (11 months ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (11 months ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (11 months ago)
-- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (11 months ago)
+- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (1 year ago)
 - [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
