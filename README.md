@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.2.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.2.0), today) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.2.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.2.0), 1 day ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.1), 1 month ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 2 months ago) - Secure sharing of secrets, passwords and files 
 
@@ -38,7 +38,7 @@
 - [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (1 month ago)
 - [docs: remove emty list item in readme](https://github.com/netz39/Netz39AmpelController/pull/3) on [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) (1 month ago)
 - [fix: add missing repository variable to _config,yml](https://github.com/netz39/www.netz39.de/pull/138) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 month ago)
-- [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (9 months ago)
+- [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (10 months ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (10 months ago)
 - [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (10 months ago)
 - [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (10 months ago)
