@@ -10,7 +10,7 @@
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (11 months ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (11 months ago)
 - [netz39/cdn.netz39.de](https://github.com/netz39/cdn.netz39.de) -  (11 months ago)
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (11 months ago)
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (1 year ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (1 year ago)
 
 #### 🌱 My latest projects
@@ -52,7 +52,7 @@
 
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (9 months ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (9 months ago)
-- [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (10 months ago)
+- [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (11 months ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (11 months ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (11 months ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (11 months ago)
