@@ -11,7 +11,6 @@
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (11 months ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (11 months ago)
 - [netz39/cdn.netz39.de](https://github.com/netz39/cdn.netz39.de) -  (11 months ago)
-- [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (1 year ago)
 
 #### 🌱 My latest projects
 
