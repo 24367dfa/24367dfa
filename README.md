@@ -6,11 +6,11 @@
 - [netz39/space_notification](https://github.com/netz39/space_notification) - Teilprojekte der Space Notification (2 months ago)
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) - Microservice to provide the Controller for our Traffic Light and Space Status (2 months ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (2 months ago)
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (4 months ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (4 months ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (11 months ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (11 months ago)
 - [netz39/cdn.netz39.de](https://github.com/netz39/cdn.netz39.de) -  (11 months ago)
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on your (Debian) host. (1 year ago)
 - [netz39/istheuteplenum](https://github.com/netz39/istheuteplenum) - Small html-site displaying plenum-status (1 year ago)
 
 #### 🌱 My latest projects
@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.2.1](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.2.1), 1 month ago) - Ansible Role for installing the Docker runtime environment on your (Debian) host.
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.1), 2 months ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 3 months ago) - Secure sharing of secrets, passwords and files 
 
