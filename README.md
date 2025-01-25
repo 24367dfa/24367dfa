@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (today)
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) - Microservice to provide the Space API JSON from our MQTT topic status. (2 months ago)
 - [netz39/space_notification](https://github.com/netz39/space_notification) - Teilprojekte der Space Notification (2 months ago)
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) - Microservice to provide the Controller for our Traffic Light and Space Status (2 months ago)
