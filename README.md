@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (1 day ago)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (2 days ago)
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) - Microservice to provide the Space API JSON from our MQTT topic status. (2 months ago)
 - [netz39/space_notification](https://github.com/netz39/space_notification) - Teilprojekte der Space Notification (2 months ago)
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) - Microservice to provide the Controller for our Traffic Light and Space Status (2 months ago)
@@ -11,7 +11,7 @@
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (4 months ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (11 months ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (11 months ago)
-- [netz39/cdn.netz39.de](https://github.com/netz39/cdn.netz39.de) -  (11 months ago)
+- [netz39/cdn.netz39.de](https://github.com/netz39/cdn.netz39.de) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (3 days ago)
+- [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (4 days ago)
 - [remove spaceapi folder after move to Netz39AmpelController and Netz39…](https://github.com/netz39/space_notification/pull/20) on [netz39/space_notification](https://github.com/netz39/space_notification) (2 months ago)
 - [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (2 months ago)
 - [docs: remove emty list item in readme](https://github.com/netz39/Netz39AmpelController/pull/3) on [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) (2 months ago)
@@ -43,7 +43,7 @@
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (11 months ago)
 - [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (11 months ago)
 - [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (11 months ago)
-- [Feat/pre-commit](https://github.com/netz39/www.netz39.de/pull/103) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (11 months ago)
+- [Feat/pre-commit](https://github.com/netz39/www.netz39.de/pull/103) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 year ago)
 
 #### 📓 Gists I wrote
 
@@ -54,7 +54,7 @@
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (10 months ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (11 months ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (11 months ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (11 months ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 year ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 year ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 year ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
