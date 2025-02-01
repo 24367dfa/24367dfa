@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (4 days ago)
+- [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (5 days ago)
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) - Microservice to provide the Space API JSON from our MQTT topic status. (3 months ago)
 - [netz39/space_notification](https://github.com/netz39/space_notification) - Teilprojekte der Space Notification (3 months ago)
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) - Microservice to provide the Controller for our Traffic Light and Space Status (3 months ago)
@@ -29,12 +29,12 @@
 #### 🔭 Latest releases I've contributed to
 
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.2.1](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.2.1), 1 month ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
-- [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.1), 2 months ago) - Microservice to provide the Space API JSON from our MQTT topic status.
+- [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.1), 3 months ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 - [jhaals/yopass](https://github.com/jhaals/yopass) ([11.17.0](https://github.com/jhaals/yopass/releases/tag/11.17.0), 3 months ago) - Secure sharing of secrets, passwords and files 
 
 #### 🔨 My recent Pull Requests
 
-- [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (6 days ago)
+- [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 week ago)
 - [remove spaceapi folder after move to Netz39AmpelController and Netz39…](https://github.com/netz39/space_notification/pull/20) on [netz39/space_notification](https://github.com/netz39/space_notification) (3 months ago)
 - [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (3 months ago)
 - [docs: remove emty list item in readme](https://github.com/netz39/Netz39AmpelController/pull/3) on [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) (3 months ago)
