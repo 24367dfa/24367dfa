@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [:arrow_up: workflow: Update changelog generator action to use janhein…](https://github.com/netz39/ansible-role-host-docker/pull/15) on [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) (today)
 - [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 weeks ago)
 - [remove spaceapi folder after move to Netz39AmpelController and Netz39…](https://github.com/netz39/space_notification/pull/20) on [netz39/space_notification](https://github.com/netz39/space_notification) (3 months ago)
 - [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (3 months ago)
@@ -42,7 +43,6 @@
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (1 year ago)
 - [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (1 year ago)
 - [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (1 year ago)
-- [Feat/pre-commit](https://github.com/netz39/www.netz39.de/pull/103) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 year ago)
 
 #### 📓 Gists I wrote
 
