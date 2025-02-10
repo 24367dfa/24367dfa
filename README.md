@@ -10,8 +10,6 @@
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (3 months ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (5 months ago)
 - [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (1 year ago)
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 year ago)
-- [netz39/cdn.netz39.de](https://github.com/netz39/cdn.netz39.de) -  (1 year ago)
 
 #### 🌱 My latest projects
 
