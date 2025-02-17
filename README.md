@@ -9,7 +9,6 @@
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) - Microservice to provide the Space API JSON from our MQTT topic status. (3 months ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (3 months ago)
 - [24367dfa/git-workshop](https://github.com/24367dfa/git-workshop) -  (5 months ago)
-- [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) - Logging operator documentation (1 year ago)
 
 #### 🌱 My latest projects
 
