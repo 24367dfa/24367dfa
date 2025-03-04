@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (today)
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (11 months ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (11 months ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (1 year ago)
@@ -55,7 +56,6 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 year ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (1 year ago)
-- [sse-secure-systems/connaisseur](https://github.com/sse-secure-systems/connaisseur) - An admission controller that integrates Container Image Signature Verification into a Kubernetes cluster (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
