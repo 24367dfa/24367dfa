@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.4.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.4.0), 5 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.4.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.4.0), 6 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.1), 4 months ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 
 #### 🔨 My recent Pull Requests
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (today)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 day ago)
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (11 months ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (11 months ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (1 year ago)
