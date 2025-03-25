@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) ([v0.2.0](https://github.com/netz39/Netz39AmpelController/releases/tag/v0.2.0), 1 day ago) - Microservice to provide the Controller for our Traffic Light and Space Status
+- [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) ([v0.2.0](https://github.com/netz39/Netz39AmpelController/releases/tag/v0.2.0), 2 days ago) - Microservice to provide the Controller for our Traffic Light and Space Status
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.5.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.5.0), 2 weeks ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.1), 4 months ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 weeks ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (3 weeks ago)
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (1 year ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (1 year ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (1 year ago)
