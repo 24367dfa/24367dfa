@@ -56,7 +56,7 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 year ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 year ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
-- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (1 year ago)
+- [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
