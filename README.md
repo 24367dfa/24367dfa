@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.6.1](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.6.1), 5 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.6.1](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.6.1), 6 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.3](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.3), 3 weeks ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) ([v0.2.2](https://github.com/netz39/Netz39AmpelController/releases/tag/v0.2.2), 3 weeks ago) - Microservice to provide the Controller for our Traffic Light and Space Status
 
@@ -55,7 +55,7 @@
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 year ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (1 year ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (1 year ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 year ago)
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (2 years ago)
 - [endoflife-date/release-data](https://github.com/endoflife-date/release-data) - Common Release Data for various projects in a consumable format, automatically updated. (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
