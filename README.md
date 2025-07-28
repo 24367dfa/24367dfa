@@ -52,7 +52,7 @@
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (1 year ago)
 - [StevenWeathers/thunderdome-planning-poker](https://github.com/StevenWeathers/thunderdome-planning-poker) - ⚡ Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool (1 year ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (1 year ago)
-- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (1 year ago)
+- [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (2 years ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (2 years ago)
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 years ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (2 years ago)
