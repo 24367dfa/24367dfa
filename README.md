@@ -63,11 +63,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jplitza](https://github.com/jplitza)
 - [timherrm](https://github.com/timherrm)
 - [MG-5](https://github.com/MG-5)
 - [PlayMTL](https://github.com/PlayMTL)
 - [Legacy8049](https://github.com/Legacy8049)
-- [Nold360](https://github.com/Nold360)
 
 #### 💬 Feedback
 
