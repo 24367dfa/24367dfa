@@ -39,8 +39,8 @@
 - [fix: add missing repository variable to _config,yml](https://github.com/netz39/www.netz39.de/pull/138) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (9 months ago)
 - [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (1 year ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (1 year ago)
-- [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (1 year ago)
-- [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (1 year ago)
+- [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 years ago)
+- [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 years ago)
 
 #### 📓 Gists I wrote
 
