@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.6.2](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.6.2), 5 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.6.3](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.6.3), today) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.3](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.3), 2 months ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) ([v0.2.2](https://github.com/netz39/Netz39AmpelController/releases/tag/v0.2.2), 2 months ago) - Microservice to provide the Controller for our Traffic Light and Space Status
 
