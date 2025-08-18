@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.6.3](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.6.3), 6 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.6.3](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.6.3), 1 week ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.1.3](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.1.3), 2 months ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) ([v0.2.2](https://github.com/netz39/Netz39AmpelController/releases/tag/v0.2.2), 2 months ago) - Microservice to provide the Controller for our Traffic Light and Space Status
 
@@ -37,7 +37,7 @@
 - [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (9 months ago)
 - [docs: remove emty list item in readme](https://github.com/netz39/Netz39AmpelController/pull/3) on [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) (9 months ago)
 - [fix: add missing repository variable to _config,yml](https://github.com/netz39/www.netz39.de/pull/138) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (9 months ago)
-- [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (1 year ago)
+- [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (2 years ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (2 years ago)
 - [Feature: env var config](https://github.com/jhaals/yopass/pull/2143) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 years ago)
 - [docs: add link to russian translation to readme](https://github.com/jhaals/yopass/pull/2142) on [jhaals/yopass](https://github.com/jhaals/yopass) (2 years ago)
