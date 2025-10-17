@@ -24,9 +24,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.7.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.7.0), 2 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
-- [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.2.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.2.1), 3 days ago) - Microservice to provide the Space API JSON from our MQTT topic status.
-- [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) ([v0.3.0](https://github.com/netz39/Netz39AmpelController/releases/tag/v0.3.0), 6 days ago) - Microservice to provide the Controller for our Traffic Light and Space Status
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.7.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.7.0), 3 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
+- [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.2.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.2.1), 4 days ago) - Microservice to provide the Space API JSON from our MQTT topic status.
+- [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) ([v0.3.0](https://github.com/netz39/Netz39AmpelController/releases/tag/v0.3.0), 1 week ago) - Microservice to provide the Controller for our Traffic Light and Space Status
 
 #### 🔨 My recent Pull Requests
 
