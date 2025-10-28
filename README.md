@@ -4,9 +4,9 @@
 
 - [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on a (Debian) host. (8 months ago)
 - [FreifunkMD/.github](https://github.com/FreifunkMD/.github) - FreifunkMD communitry on GitHub (9 months ago)
-- [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) - Microservice to provide the Controller for our Traffic Light and Space Status (11 months ago)
-- [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) - Microservice to provide the Space API JSON from our MQTT topic status. (11 months ago)
-- [netz39/space_notification](https://github.com/netz39/space_notification) - Teilprojekte der Space Notification (11 months ago)
+- [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) - Microservice to provide the Controller for our Traffic Light and Space Status (1 year ago)
+- [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) - Microservice to provide the Space API JSON from our MQTT topic status. (1 year ago)
+- [netz39/space_notification](https://github.com/netz39/space_notification) - Teilprojekte der Space Notification (1 year ago)
 - [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) - Webseite des Netz39 e.V. (1 year ago)
 
 #### 🌱 My latest projects
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.7.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.7.0), 1 week ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.7.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.7.0), 2 weeks ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 - [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) ([v0.2.1](https://github.com/netz39/Netz39SpaceAPI-Service/releases/tag/v0.2.1), 2 weeks ago) - Microservice to provide the Space API JSON from our MQTT topic status.
 - [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) ([v0.3.0](https://github.com/netz39/Netz39AmpelController/releases/tag/v0.3.0), 2 weeks ago) - Microservice to provide the Controller for our Traffic Light and Space Status
 
@@ -32,9 +32,9 @@
 
 - [:arrow_up: workflow: Update changelog generator action to use janhein…](https://github.com/netz39/ansible-role-host-docker/pull/15) on [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) (8 months ago)
 - [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (9 months ago)
-- [remove spaceapi folder after move to Netz39AmpelController and Netz39…](https://github.com/netz39/space_notification/pull/20) on [netz39/space_notification](https://github.com/netz39/space_notification) (11 months ago)
-- [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (11 months ago)
-- [docs: remove emty list item in readme](https://github.com/netz39/Netz39AmpelController/pull/3) on [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) (11 months ago)
+- [remove spaceapi folder after move to Netz39AmpelController and Netz39…](https://github.com/netz39/space_notification/pull/20) on [netz39/space_notification](https://github.com/netz39/space_notification) (1 year ago)
+- [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (1 year ago)
+- [docs: remove emty list item in readme](https://github.com/netz39/Netz39AmpelController/pull/3) on [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) (1 year ago)
 - [fix: add missing repository variable to _config,yml](https://github.com/netz39/www.netz39.de/pull/138) on [netz39/www.netz39.de](https://github.com/netz39/www.netz39.de) (1 year ago)
 - [wip: initial helm chart version](https://github.com/penguineer/cleanURI-helm/pull/3) on [penguineer/cleanURI-helm](https://github.com/penguineer/cleanURI-helm) (2 years ago)
 - [Update fluent-bit link in image-versions.md](https://github.com/kube-logging/kube-logging.github.io/pull/225) on [kube-logging/kube-logging.github.io](https://github.com/kube-logging/kube-logging.github.io) (2 years ago)
