@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.7.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.7.0), 4 weeks ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.7.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.7.0), 1 month ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 
 #### 🔨 My recent Pull Requests
 
@@ -40,7 +40,7 @@
 
 #### ⭐ Recent Stars
 
-- [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (1 day ago)
+- [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (2 days ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (8 months ago)
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (2 years ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (2 years ago)
