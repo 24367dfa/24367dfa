@@ -56,11 +56,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Iankulani](https://github.com/Iankulani)
 - [jplitza](https://github.com/jplitza)
 - [timherrm](https://github.com/timherrm)
-- [MG-5](https://github.com/MG-5)
 
 #### 💬 Feedback
 
