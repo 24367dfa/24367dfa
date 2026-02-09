@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.8.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.8.0), 1 day ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
+- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.8.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.8.0), 2 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 
 #### 🔨 My recent Pull Requests
 
@@ -39,8 +39,8 @@
 
 #### ⭐ Recent Stars
 
-- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (3 days ago)
-- [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (2 months ago)
+- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (4 days ago)
+- [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (3 months ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (11 months ago)
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (2 years ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen (2 years ago)
