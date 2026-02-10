@@ -19,7 +19,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) ([v0.8.0](https://github.com/netz39/ansible-role-host-docker/releases/tag/v0.8.0), 3 days ago) - Ansible Role for installing the Docker runtime environment on a (Debian) host.
 
 #### 🔨 My recent Pull Requests
 
