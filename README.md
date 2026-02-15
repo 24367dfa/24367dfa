@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) - Ansible Role for installing the Docker runtime environment on a (Debian) host. (1 year ago)
 
 #### 🌱 My latest projects
 
