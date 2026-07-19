@@ -22,7 +22,7 @@
 #### 🔨 My recent Pull Requests
 
 - [:arrow_up: workflow: Update changelog generator action to use janhein…](https://github.com/netz39/ansible-role-host-docker/pull/15) on [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) (1 year ago)
-- [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (1 year ago)
+- [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 years ago)
 - [remove spaceapi folder after move to Netz39AmpelController and Netz39…](https://github.com/netz39/space_notification/pull/20) on [netz39/space_notification](https://github.com/netz39/space_notification) (2 years ago)
 - [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (2 years ago)
 - [docs: remove emty list item in readme](https://github.com/netz39/Netz39AmpelController/pull/3) on [netz39/Netz39AmpelController](https://github.com/netz39/Netz39AmpelController) (2 years ago)
