@@ -21,7 +21,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [:arrow_up: workflow: Update changelog generator action to use janhein…](https://github.com/netz39/ansible-role-host-docker/pull/15) on [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) (1 year ago)
+- [:arrow_up: workflow: Update changelog generator action to use janhein…](https://github.com/netz39/ansible-role-host-docker/pull/15) on [netz39/ansible-role-host-docker](https://github.com/netz39/ansible-role-host-docker) (2 years ago)
 - [Update README to indicate project discontinuation](https://github.com/FreifunkMD/.github/pull/45) on [FreifunkMD/.github](https://github.com/FreifunkMD/.github) (2 years ago)
 - [remove spaceapi folder after move to Netz39AmpelController and Netz39…](https://github.com/netz39/space_notification/pull/20) on [netz39/space_notification](https://github.com/netz39/space_notification) (2 years ago)
 - [feat: add more contact channel info to API](https://github.com/netz39/Netz39SpaceAPI-Service/pull/5) on [netz39/Netz39SpaceAPI-Service](https://github.com/netz39/Netz39SpaceAPI-Service) (2 years ago)
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent Stars
 
-- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (5 months ago)
+- [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (6 months ago)
 - [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (8 months ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 year ago)
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (2 years ago)
