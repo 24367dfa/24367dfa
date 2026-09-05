@@ -37,6 +37,7 @@
 
 #### ⭐ Recent Stars
 
+- [kleiwright/matcha-flavoured](https://github.com/kleiwright/matcha-flavoured) - Repository for the Matcha Flavoured Datapack (today)
 - [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (7 months ago)
 - [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (9 months ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 years ago)
@@ -46,7 +47,6 @@
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (2 years ago)
 - [stefmolin/exif-stripper](https://github.com/stefmolin/exif-stripper) - An easy-to-use tool to ensure image metadata (EXIF) is removed. (2 years ago)
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files  (2 years ago)
-- [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
