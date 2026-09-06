@@ -37,7 +37,7 @@
 
 #### ⭐ Recent Stars
 
-- [kleiwright/matcha-flavoured](https://github.com/kleiwright/matcha-flavoured) - Repository for the Matcha Flavoured Datapack (today)
+- [kleiwright/matcha-flavoured](https://github.com/kleiwright/matcha-flavoured) - Repository for the Matcha Flavoured Datapack (1 day ago)
 - [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (7 months ago)
 - [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (9 months ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 years ago)
