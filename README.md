@@ -37,9 +37,9 @@
 
 #### ⭐ Recent Stars
 
-- [kleiwright/matcha-flavoured](https://github.com/kleiwright/matcha-flavoured) - Repository for the Matcha Flavoured Datapack (1 day ago)
+- [kleiwright/matcha-flavoured](https://github.com/kleiwright/matcha-flavoured) - Repository for the Matcha Flavoured Datapack (2 days ago)
 - [Manoj-engineer/k8squest](https://github.com/Manoj-engineer/k8squest) - K8sQuest — A local, hands-on Kubernetes learning game with real-world troubleshooting challenges. Practice Pods, Deployments, Services, networking, storage, and debugging using kubectl on a local cluster (kind/k3d). No cloud required. (7 months ago)
-- [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (9 months ago)
+- [leoherzog/stopcitingai](https://github.com/leoherzog/stopcitingai) - A response to &#34;But ChatGPT Said…&#34; (10 months ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (2 years ago)
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy (2 years ago)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker (2 years ago)
